@@ -1,17 +1,22 @@
-const express = require('express')
+const express = require('express');
 const app = express();
-const cors = require("cors");
-const artistController = require("./controllers/artists")
+const cors = require('cors');
+const artistController = require('./controllers/artists');
+const userCtrl = require('./controllers/users');
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
-app.use("/artists", artistController)
+//------------Start Controllers-------------------------------
+app.use('/artists', artistController);
 
+app.use('/users', userCtrl);
+
+//-------------End Controllers---------------------------------
 
 const port = process.env.PORT || 4000;
 
 app.listen(port, () => {
-  console.log(`app listening on port ${port}`);
+	console.log(`app listening on port ${port}`);
 });

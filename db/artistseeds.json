@@ -10,8 +10,6 @@
                 "yearReleased": "June 25 1996",
                 "AlbumSold":"1,514,000",
                 "Certification": "Platinum"
-                
-
             },
             {
                 "albumName": "In My Lifetime vol.1",
@@ -73,18 +71,14 @@
                 "Certification": "Platinum"
             }
         ],
-            
-    "record label": "Roc-A-Fella",
-    "genre": "Hip Hop",
-    "years active": "1988-Present",
-    "awards": [
-        {
-         "grammy": 23,  
-         "billboard music awards": 6
-        }
-    ]
-
+        "record label": "Roc-A-Fella",
+        "genre": "Hip Hop",
+        "years active": "1988-Present",
+        "awards": [
+            {
+            "grammy": 23,  
+            "billboard music awards": 6
+            }
+        ]
     }
-    
-
 ]

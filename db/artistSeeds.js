@@ -1,6 +1,6 @@
 const mongoose = require('./connection');
 const Artist = require('../models/Artist');
-const artistSeeds = require('./artistSeeds.json');
+const artistSeeds = require('./artistseeds.json');
 
 Artist.deleteMany({})
 	.then(() => {

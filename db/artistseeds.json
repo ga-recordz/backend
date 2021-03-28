@@ -1,52 +1,88 @@
+
 [
     {
-        "name": "Lil Wayne",
-        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2020%2Fnov%2F18%2Flil-wayne-faces-up-to-10-years-in-jail-on-weapons-possession-charges&psig=AOvVaw028AK9Qs0DKA2Ep2ooLGJv&ust=1616960118859000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPigv_-b0e8CFQAAAAAdAAAAABAD",
-        "likes" : []
-    },
-        {
-        "name": "50 Cent",
-        "photo": "https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118",
-        "likes" : []
-    },
-    {
-        "name": "Eminem",
-        "photo": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1203069179%2F0x0.jpg",
-        "likes" : []
-    },
-    {
-        "name": "Jay-Z",
+        "artist": "Jay-Z",
+        "bio":   "Shawn Corey Carter (born December 4, 1969), known professionally as Jay-Z (stylized as JAY-Z), is an American rapper, songwriter, record executive, businessman, and record producer. Born and raised in New York City, Jay-Z first began his musical career after founding the record label Roc-A-Fella Records in 1995, and subsequently released his debut studio album Reasonable Doubt in 1996.",
         "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jay-Z_%40_Shawn_%27Jay-Z%27_Carter_Foundation_Carnival_%28crop_2%29.jpg",
-        "likes" : []
-    },
-    {
-        "name": "Kanye West",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/1/10/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28cropped%29.jpg",
-        "likes" : []
-    },
-    {
-        "name": "Snoop Dogg",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/1/17/Snoop_Dogg_2019_by_Glenn_Francis.jpg",
-        "likes" : []
-    },
-    {
-        "name": "Drake",
-        "photo": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed578988b3c370006234c35%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D43%26cropX2%3D1074%26cropY1%3D49%26cropY2%3D1080",
-        "likes" : []
-    },
-    {
-        "name": "Megan Thee Stallion",
-        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/megan-thee-stallion-at-the-2019-american-music-awards-news-photo-1588255342.jpg",
-        "likes" : []
-    },
-    {
-        "name": "Cardi B",
-        "photo": "https://i.guim.co.uk/img/media/16af893292e56b11d666e25e779766cf64d9088e/139_137_2840_1704/master/2840.jpg?width=1200&quality=85&auto=format&fit=max&s=26bf9fde331d4bae1e697e4143f53795",
-        "likes" : []
-    },
-    {
-        "name": "DaBaby",
-        "photo": "https://static.onecms.io/wp-content/uploads/sites/20/2020/01/dababy-1.jpg",
-        "likes" : []
+        "likes":[],
+        "album": [
+            {
+                "albumName": "Reasonable Doubt",
+                "yearReleased": "June 25 1996",
+                "AlbumSold":"1,514,000",
+                "Certification": "Platinum"
+                
+
+            },
+            {
+                "albumName": "In My Lifetime vol.1",
+                "yearReleased": "November 4 1997",
+                "AlbumSold":"1,412,000",
+                "Certification": "Platinum"
+            },
+              {
+                "albumName": "VOl 2 ...Hard Knock Life",
+                "yearReleased": "September 29 1998",
+                "AlbumSold":"5,400,000",
+                "Certification": "5x Platinum"
+            },
+             {
+                "albumName": "VOl 3 ...Life and Times of S.Carter",
+                "yearReleased": "December 28 1999",
+                "AlbumSold":"3,093,000",
+                "Certification": "3x Platinum"
+            },
+            {
+                "albumName": "The Dynasty: Roc La Familia",
+                "yearReleased": "October 31 2000",
+                "AlbumSold":"2,521,00",
+                "Certification": "2x Platinum"
+            }, {
+                "albumName": "The BluePrint",
+                "yearReleased": "September 11 2001",
+                "AlbumSold":"2,711,000",
+                "Certification": "3x Platinum"
+            },{
+                "albumName": "The Blueprint 2: The Gift & The Curse",
+                "yearReleased": "November 12 2002",
+                "AlbumSold":"2,117,000",
+                "Certification": "3x Platinum"
+            },{
+                "albumName": "The Black Album",
+                "yearReleased": "November 14 2003",
+                "AlbumSold":"3,516,000",
+                "Certification": "3x Platinum"
+            },{
+                "albumName": "Kingdom Come",
+                "yearReleased": "November 21 2006",
+                "AlbumSold":"1,510,000",
+                "Certification": "2x Platinum"
+            },{
+                "albumName": "American Gangster",
+                "yearReleased": "November 6 2007",
+                "AlbumSold":"1,313,000",
+                "Certification": "Platinum"
+            },{
+                "albumName": "The Blue 3",
+                "yearReleased": "September 8 2009",
+                "AlbumSold": "1,130,000",
+                "Certification": "Platinum"
+            },{
+                "albumName": "4:44",
+                "yearReleased": "June 30 2017",
+                "AlbumSold": "399,000",
+                "Certification": "Platinum"
+            }
+        ],
+            
+    "record label": "Roc-A-Fella",
+    "genre": "Hip Hop",
+    "years active": "1988-Present",
+    "awards": [
+        {
+         "grammy": 23,  
+         "billboard music awards": 6
+        }
+    ]
     }
 ]

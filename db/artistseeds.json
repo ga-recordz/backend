@@ -71,11 +71,7 @@
                 "albumSold": "399,000",
                 "certification": "Platinum"
             }
-        ] 
-        
-    },
-    
-    {
+        ] ,
     "record label": "Roc-A-Fella",
     "genre": "Hip Hop",
     "years-active": "1988-Present",
@@ -85,9 +81,8 @@
          "billboard Music awards": 6
         }
     ]
+},{
 
-    },
-    {
         "artist": "Nas",
         "bio":   "Nasir bin Olu Dara Jones born September 14, 1973, better known by his stage name Nas, is an American rapper, songwriter, and entrepreneur. Rooted in the New York rap scene, he is regarded as one of the greatest rappers of all-time. Nas has released twelve studio albums since 1994, seven of which are certified platinum and multi-platinum in the U.S.",
         "album": [
@@ -150,9 +145,7 @@
             }
     
 
-]
-},
-    {
+],
     "record label": "Columbia, DefJam",
     "genre": "Hip Hop",
     "years-active": "1989-Present",
@@ -199,9 +192,7 @@
                 "albumSold":"10,000,000",
                 "certification": "Diamond"
             }
-        ]
-
-    },{
+        ],
     "record label": "Columbia, DefJam",
     "genre": "Hip Hop",
     "years-active": "1989-Present",
@@ -272,9 +263,7 @@
                 "albumSold":"469,000",
                 "certification": "N/A"
             }
-        ]
-
-    },{
+        ],
     "record label": "Death Row , Interscope",
     "genre": "Hip Hop",
     "years-active": "1989-1996",
@@ -302,7 +291,7 @@
                 "albumSold":"10,000,000",
                 "certification": "Diamond"
             }   
-]},{
+],
     "record label": "Bad Boy",
     "genre": "Hip Hop",
     "years-active": "1992-1997",
@@ -355,7 +344,7 @@
                 "albumSold": "1",
                 "certification": "N/A"
             }
-]},{
+],
     "record label": "Loud ,Columbia" ,
     "genre": "Hip Hop",
     "years-active": "1992-Present",
@@ -421,7 +410,7 @@
                 "albumSold": "1,000,000",
                 "certification": "Platinum"
             }
-]},{
+],
     "record label": "Aftermath" ,
     "genre": "Hip Hop",
     "years-active": "1996-Present",
@@ -464,7 +453,7 @@
                 "albumSold":"124,000",
                 "certification": "N/A"
             }
-]},{
+],
     "record label": "Shady, Aftermath" ,
     "genre": "Hip Hop",
     "years-active": "1996-Present",
@@ -500,7 +489,7 @@
                 "albumSold":"1,300,000",
                 "certification": "Platinum"
             }
-]},{
+],
     "record label": "Top Dawg , Aftermath",
     "genre": "Hip Hop",
     "years-active": "2004-Present",
@@ -541,7 +530,7 @@
                 "albumSold":"407,600",
                 "certification": "N/A"
             }
-]},{
+],
     "record label": " Young Money, Cash Money",
     "genre": "Hip Hop",
     "years-active": "2001-Present",
@@ -582,7 +571,7 @@
                 "albumSold":"1,131,000",
                 "certification": "Platinum"
             }
-]},{
+],
     "record label": "Roc Nation",
     "genre": "Hip Hop",
     "years-active": "2007-Present",
@@ -623,7 +612,7 @@
                 "albumSold":"N/A",
                 "certification": "N/A"
             }
-]},{
+],
     "record label": "GOOD",
     "genre": "Hip Hop",
     "years-active": "2007-Present",
@@ -709,7 +698,7 @@
                 "albumSold":"38,000",
                 "certification": "N/A"
             }
-]},{
+],
     "record label": "Young Money, Cash Money",
     "genre": "Hip Hop",
     "years-active": "1995-Present",
@@ -770,7 +759,7 @@
                 "albumSold":"100,000",
                 "certification": "Gold"
             }
-]},{
+],
     "record label": "Roc-A-Fella, Def Jam, GOOD",
     "genre": "Hip Hop",
     "years-active": "1996-Present",
@@ -790,7 +779,7 @@
                 "Streams":"268,400,000,000",
                 "certification": "Gold"
             }
-]},{
+],
 "Mixtapes": [
         {
         "albumName": "Meet the Woo",
@@ -800,9 +789,8 @@
         "albumName": "Meet the Woo 2",
         "yearReleased": "February 7, 2020"
         }
-    ]
-},
-{
+    ],
+
     "record label": "Victor Victor, Republic",
     "genre": "Hip Hop",
     "years-active": "2018-2020",

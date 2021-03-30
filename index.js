@@ -9,11 +9,12 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 //------------Start Controllers-------------------------------
+
 app.use('/artists', artistController);
 
 app.use('/users', userCtrl);
 
-//-------------End Controllers---------------------------------
+//-------------End  Controllers---------------------------------
 
 const port = process.env.PORT || 4000;
 

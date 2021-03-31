@@ -2,7 +2,7 @@
     {
         "artist": "Jay-Z",
         "bio":   "Shawn Corey Carter (born December 4, 1969), known professionally as Jay-Z (stylized as JAY-Z), is an American rapper, songwriter, record executive, businessman, and record producer. Born and raised in New York City, Jay-Z first began his musical career after founding the record label Roc-A-Fella Records in 1995, and subsequently released his debut studio album Reasonable Doubt in 1996.",
-        "likes":[],
+        "likes":[4234535,425,4254,2435],
         "album": [
             {
                 "albumName": "Reasonable Doubt",
@@ -85,6 +85,7 @@
 
         "artist": "Nas",
         "bio":   "Nasir bin Olu Dara Jones born September 14, 1973, better known by his stage name Nas, is an American rapper, songwriter, and entrepreneur. Rooted in the New York rap scene, he is regarded as one of the greatest rappers of all-time. Nas has released twelve studio albums since 1994, seven of which are certified platinum and multi-platinum in the U.S.",
+        "likes":[4234535,425],
         "album": [
             {
                 "albumName": "Illmatic",
@@ -159,6 +160,7 @@
     },{
          "artist": "Outkast",
         "bio":   "Outkast was an American hip hop duo formed in 1992 in East Point, Georgia, consisting of Atlanta-based rappers André 3000 Benjamin (formerly known as Dré) and Antwan Big Boi Patton.Widely recognized for their intricate lyricism, memorable melodies and positive messages,OutKast is often regarded as one of the greatest and most influential hip hop acts of all time.The duo achieved both critical acclaim and commercial success from the mid-1990s to the early 2000s, helping to popularize Southern hip hop[1] while experimenting with diverse genres such as funk, psychedelia, jazz, and techno.",
+        "likes":[4234535,425,4254,2435,6,5,4,3],
     "album": [
             {
                 "albumName": "Southernplayalisticadillacmuzik",
@@ -205,6 +207,7 @@
 },{
          "artist": "Tupac",
         "bio":   "Tupac Amaru Shakur born Lesane Parish Crooks, June 16, 1971 – September 13, 1996, better known by his stage name 2Pac and by his alias Makaveli, was an American rapper and actor. He is considered by many to be one of the most influential rappers of all time. Much of Shakur's work has been noted for addressing contemporary social issues that plagued inner cities, and he is considered a symbol of activism against inequality.Shakur was born in Manhattan, a borough of New York City, but relocated to Baltimore, Maryland in 1984 and then the San Francisco Bay Area in 1988. He moved to Los Angeles in 1993 to further pursue his music career. By the time he released his debut album 2Pacalypse Now in 1991, he had become a central figure in West Coast hip hop,",
+        "likes":[4234,5,4,3],
     "album": [
             {
                 "albumName": "2Pacalypse Now",
@@ -278,6 +281,7 @@
 },{
         "artist": "Notorious BIG",
         "bio":   "Christopher George Latore Wallace (May 21, 1972 – March 9, 1997), better known by his stage names the Notorious B.I.G., Biggie Smalls, or simply Biggie,was an American rapper and songwriter. Rooted in the New York rap scene and gangsta rap traditions, he is considered one of the greatest rappers of all time.Wallace became known for his distinctive laidback lyrical delivery, offsetting the lyrics' often grim content. His music was often semi-autobiographical, telling of hardship and criminality, but also of debauchery and celebration. Born and raised in Brooklyn, New York City, Wallace signed to Sean Puffy Combs'label Bad Boy Records as it launched in 1993, and gained exposure through features on several other artists' singles that year. His debut album Ready to Die (1994) was met with widespread critical acclaim, and included his signature songs Juicy and Big Poppa",
+        "likes":[4234535,425,4254,2435,6,4,3,5,7,4,3],
     "album": [
             {
                 "albumName": "Ready to Die",
@@ -306,6 +310,7 @@
 },{
         "artist": "Wu Tang Clan",
         "bio":   "Wu-Tang Clan is an American hip hop group formed in Staten Island, New York City in 1992.Its original members include RZA, GZA, Ol' Dirty Bastard, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God, and Masta Killa. Close affiliate Cappadonna later became an official member. Wu-Tang Clan are regarded as a highly influential group in hip hop, helping to popularize and develop the East Coast hip hop and hardcore hip hop styles.After signing to Steve Rifkind's label Loud Records in 1992, Wu-Tang Clan released their debut album, Enter the Wu-Tang (36 Chambers), in 1993; it received widespread critical acclaim and has since been consistently rated as one of the greatest hip hop albums of all time",
+        "likes":[4234535,425],
     "album": [
             {
                 "albumName": "Enter the Wu-Tang (36 Chambers)",
@@ -425,6 +430,7 @@
 },{
         "artist": "50 Cent",
         "bio":"Curtis James Jackson III (born July 6, 1975), known professionally as 50 Cent, is an American rapper, songwriter, television producer, actor, and entrepreneur. Known for his impact in the hip hop industry, he has been described as a master of the nuanced art of lyrical brevity.Born in the South Jamaica neighborhood of Queens, Jackson began selling drugs at age 12 during the 1980s crack epidemic. He later began pursuing a musical career and in 2000 he produced Power of the Dollar for Columbia Records, but days before the planned release he was shot and the album was never released. In 2002, after Jackson released the compilation album Guess Who's Back?, he was discovered by Eminem and signed to Shady Records, under the aegis of Dr. Dre's Aftermath Entertainment and Interscope Records.With the aid of Eminem and Dr. Dre (who produced his first major-label album Get Rich or Die Tryin'), Jackson became one of the world's best selling rappers and rose to prominence as de facto leader of East Coast hip hop group G-Unit.",
+        "likes":[4234535,425,4254,2435,4],
     "album": [
             {
                 "albumName": "Get Rich or Die Tryin'",

@@ -11,12 +11,15 @@ router.get('/', (req, res, next) => {
 		.catch(next);
 });
 
+
 router.get("/:id", (req, res, next) => {
   Artist.findById({ _id: req.params.id })
     .then((artists) => {
       res.json(artists);
     })
     .catch(next);
+
+
 });
 
 router.post("/", (req, res, next) => {

@@ -4,6 +4,7 @@ const UserSchema = new mongoose.Schema({
 	email: String,
 	password: String,
 	userName: String,
+	
 	hasVoted: { type: Boolean, default: false },
 });
 

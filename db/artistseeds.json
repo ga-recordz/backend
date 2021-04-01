@@ -1,862 +1,935 @@
 [
-    {
-        "artist": "Jay-Z",
-        "bio":   "Shawn Corey Carter (born December 4, 1969), known professionally as Jay-Z (stylized as JAY-Z), is an American rapper, songwriter, record executive, businessman, and record producer. Born and raised in New York City, Jay-Z first began his musical career after founding the record label Roc-A-Fella Records in 1995, and subsequently released his debut studio album Reasonable Doubt in 1996.",
-
-        "likes":[56576],
-        "debates":["gjghghg"],
-
-     
-        "album": [
-            {
-                "albumName": "Reasonable Doubt",
-                "yearReleased": "June 25 1996",
-                "albumSold":"1,514,000",
-                "certification": "Platinum"
-                
-
-            },
-            {
-                "albumName": "In My Lifetime vol.1",
-                "yearReleased": "November 4 1997",
-                "albumSold":"1,412,000",
-                "certification": "Platinum"
-            },
-              {
-                "albumName": "VOl 2 ...Hard Knock Life",
-                "yearReleased": "September 29 1998",
-                "albumSold":"5,400,000",
-                "certification": "5x Platinum"
-            },
-             {
-                "albumName": "VOl 3 ...Life and Times of S.Carter",
-                "yearReleased": "December 28 1999",
-                "albumSold":"3,093,000",
-                "certification": "3x Platinum"
-            },
-            {
-                "albumName": "The Dynasty: Roc La Familia",
-                "yearReleased": "October 31 2000",
-                "albumSold":"2,521,00",
-                "certification": "2x Platinum"
-            }, {
-                "albumName": "The BluePrint",
-                "yearReleased": "September 11 2001",
-                "albumSold":"2,711,000",
-                "certification": "3x Platinum"
-            },{
-                "albumName": "The Blueprint 2: The Gift & The Curse",
-                "yearReleased": "November 12 2002",
-                "albumSold":"2,117,000",
-                "certification": "3x Platinum"
-            },{
-                "albumName": "The Black Album",
-                "yearReleased": "November 14 2003",
-                "albumSold":"3,516,000",
-                "certification": "3x Platinum"
-            },{
-                "albumName": "Kingdom Come",
-                "yearReleased": "November 21 2006",
-                "albumSold":"1,510,000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "American Gangster",
-                "yearReleased": "November 6 2007",
-                "albumSold":"1,313,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "The Blue 3",
-                "yearReleased": "September 8 2009",
-                "albumSold": "1,130,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "4:44",
-                "yearReleased": "June 30 2017",
-                "albumSold": "399,000",
-                "certification": "Platinum"
-            }
-        ] ,
-    "record label": "Roc-A-Fella",
+  {
+    "artist": "Jay-Z",
+    "bio": "Shawn Corey Carter (born December 4, 1969), known professionally as Jay-Z (stylized as JAY-Z), is an American rapper, songwriter, record executive, businessman, and record producer. Born and raised in New York City, Jay-Z first began his musical career after founding the record label Roc-A-Fella Records in 1995, and subsequently released his debut studio album Reasonable Doubt in 1996.",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://lh3.googleusercontent.com/NkKrnNl2YiD8UWy7RL4zj29m-LWPLkUcf9ap2Av8NbNFB6Bc5n09v8uTFSzSi_L7tBsWog=s85",
+    "album": [
+      {
+        "albumName": "Reasonable Doubt",
+        "yearReleased": "June 25 1996",
+        "albumSold": "1,514,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "In My Lifetime vol.1",
+        "yearReleased": "November 4 1997",
+        "albumSold": "1,412,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "VOl 2 ...Hard Knock Life",
+        "yearReleased": "September 29 1998",
+        "albumSold": "5,400,000",
+        "certification": "5x Platinum"
+      },
+      {
+        "albumName": "VOl 3 ...Life and Times of S.Carter",
+        "yearReleased": "December 28 1999",
+        "albumSold": "3,093,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "The Dynasty: Roc La Familia",
+        "yearReleased": "October 31 2000",
+        "albumSold": "2,521,00",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "The BluePrint",
+        "yearReleased": "September 11 2001",
+        "albumSold": "2,711,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "The Blueprint 2: The Gift & The Curse",
+        "yearReleased": "November 12 2002",
+        "albumSold": "2,117,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "The Black Album",
+        "yearReleased": "November 14 2003",
+        "albumSold": "3,516,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "Kingdom Come",
+        "yearReleased": "November 21 2006",
+        "albumSold": "1,510,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "American Gangster",
+        "yearReleased": "November 6 2007",
+        "albumSold": "1,313,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "The Blue 3",
+        "yearReleased": "September 8 2009",
+        "albumSold": "1,130,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "4:44",
+        "yearReleased": "June 30 2017",
+        "albumSold": "399,000",
+        "certification": "Platinum"
+      }
+    ],
+    "recordLabel": "Roc-A-Fella",
     "genre": "Hip Hop",
-    "years-active": "1988-Present",
+    "yearsActive": "1988-Present",
     "awards": [
-        {
-         "grammy": 23,  
-         "billboard Music awards": 6
-        }
+      {
+        "grammy": 23,
+        "billBoardMusicAwards": 6
+      }
     ]
-},{
-
-        "artist": "Nas",
-        "bio":   "Nasir bin Olu Dara Jones born September 14, 1973, better known by his stage name Nas, is an American rapper, songwriter, and entrepreneur. Rooted in the New York rap scene, he is regarded as one of the greatest rappers of all-time. Nas has released twelve studio albums since 1994, seven of which are certified platinum and multi-platinum in the U.S.",
-
-        "likes":[56576],
-        "debates":["gjghghg"],
-
-        
-
-        "album": [
-            {
-                "albumName": "Illmatic",
-                "yearReleased": "April 19 1994",
-                "albumSold":"2,000,000",
-                "certification": "2x Platinum"
-            },
-            {
-                "albumName": "It was Written",
-                "yearReleased": "July 2 1996",
-                "albumSold":"2,595,000",
-                "certification": "2x Platinum"
-            }, {
-                "albumName": "I Am",
-                "yearReleased": "April 6 1999",
-                "albumSold":"2,178 000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "Nastradamus",
-                "yearReleased": "November 23 1999",
-                "albumSold":" 1,262,000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "StillMatic",
-                "yearReleased": "December 18 2001",
-                "albumSold":"2,179,000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "God's Son",
-                "yearReleased": "December 13, 2002",
-                "albumSold":"1,362,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Steet's Disicple",
-                "yearReleased": "November 30 2004",
-                "albumSold":"724,000",
-                "certification": "Gold"
-            },{
-                "albumName": "Untitled",
-                "yearReleased": "July 15 2008",
-                "albumSold":"480,000",
-                "certification": "Gold"
-            },{
-                "albumName": "Life is Gold",
-                "yearReleased": "July 17 2012",
-                "albumSold":"380,0000",
-                "certification": "Gold"
-            },{
-                "albumName": "Nassir",
-                "yearReleased": "June 15 2018",
-                "albumSold":"380,0000",
-                "certification": "Gold"
-            },{
-                "albumName": "King's Disease",
-                "yearReleased": "June 15 2020",
-                "albumSold":"",
-                "certification": ""
-            }
-    
-
-],
-    "record label": "Columbia, DefJam",
+  },
+  {
+    "artist": "Nas",
+    "bio": "Nasir bin Olu Dara Jones born September 14, 1973, better known by his stage name Nas, is an American rapper, songwriter, and entrepreneur. Rooted in the New York rap scene, he is regarded as one of the greatest rappers of all-time. Nas has released twelve studio albums since 1994, seven of which are certified platinum and multi-platinum in the U.S.",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.genius.com%2F8753de258796b1f91adfedde591e85be.750x750x1.jpg&imgrefurl=https%3A%2F%2Fgenius.com%2Falbums%2FNas%2FIllmatic&tbnid=zHAns-RfJXYr6M&vet=12ahUKEwiYlbDz0tvvAhVQMd8KHUO7CA4QMygBegUIARCwAQ..i&docid=n0PEOrwpTaar9M&w=750&h=750&q=illmatic%20img&hl=en&ved=2ahUKEwiYlbDz0tvvAhVQMd8KHUO7CA4QMygBegUIARCwAQ",
+    "album": [
+      {
+        "albumName": "Illmatic",
+        "yearReleased": "April 19 1994",
+        "albumSold": "2,000,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "It was Written",
+        "yearReleased": "July 2 1996",
+        "albumSold": "2,595,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "I Am",
+        "yearReleased": "April 6 1999",
+        "albumSold": "2,178 000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "Nastradamus",
+        "yearReleased": "November 23 1999",
+        "albumSold": " 1,262,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "StillMatic",
+        "yearReleased": "December 18 2001",
+        "albumSold": "2,179,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "God's Son",
+        "yearReleased": "December 13, 2002",
+        "albumSold": "1,362,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Steet's Disicple",
+        "yearReleased": "November 30 2004",
+        "albumSold": "724,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Untitled",
+        "yearReleased": "July 15 2008",
+        "albumSold": "480,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Life is Gold",
+        "yearReleased": "July 17 2012",
+        "albumSold": "380,0000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Nassir",
+        "yearReleased": "June 15 2018",
+        "albumSold": "380,0000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "King's Disease",
+        "yearReleased": "June 15 2020",
+        "albumSold": "",
+        "certification": ""
+      }
+    ],
+    "recordLabel": "Columbia, DefJam",
     "genre": "Hip Hop",
-    "years-active": "1989-Present",
+    "yearsActive": "1989-Present",
     "awards": [
-        {
-         "Grammy": 1,
-         "BET awards": 2  
-        }
+      {
+        "grammy": 1,
+        "betAwards": 2
+      }
     ]
+  },
+  {
+    "artist": "Outkast",
+    "bio": "Outkast was an American hip hop duo formed in 1992 in East Point, Georgia, consisting of Atlanta-based rappers André 3000 Benjamin (formerly known as Dré) and Antwan Big Boi Patton.Widely recognized for their intricate lyricism, memorable melodies and positive messages,OutKast is often regarded as one of the greatest and most influential hip hop acts of all time.The duo achieved both critical acclaim and commercial success from the mid-1990s to the early 2000s, helping to popularize Southern hip hop[1] while experimenting with diverse genres such as funk, psychedelia, jazz, and techno.",
 
-    },{
-         "artist": "Outkast",
-        "bio":   "Outkast was an American hip hop duo formed in 1992 in East Point, Georgia, consisting of Atlanta-based rappers André 3000 Benjamin (formerly known as Dré) and Antwan Big Boi Patton.Widely recognized for their intricate lyricism, memorable melodies and positive messages,OutKast is often regarded as one of the greatest and most influential hip hop acts of all time.The duo achieved both critical acclaim and commercial success from the mid-1990s to the early 2000s, helping to popularize Southern hip hop[1] while experimenting with diverse genres such as funk, psychedelia, jazz, and techno.",
+    "debates": ["gjghghg"],
 
-        
-        "debates":["gjghghg"],
-
-        "likes":[4234535,425,4254,2435,6,5,4,3],
+    "likes": [4234535, 425, 4254, 2435, 6, 5, 4, 3],
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.npr.org%2F2020%2F11%2F18%2F934594401%2Foutkast-stankonia-threw-us-to-the-wilderness&psig=AOvVaw11PDzRvpCxPqH0XEYdUG5j&ust=1617318516123000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjDjZPT2-8CFQAAAAAdAAAAABAD",
 
     "album": [
-            {
-                "albumName": "Southernplayalisticadillacmuzik",
-                "yearReleased": "April 26 1994",
-                "albumSold":"1,000,000",
-                "certification": "Platinum"
-            },
-            {
-                "albumName": "ATLiens",
-                "yearReleased": "August 27 1996",
-                "albumSold":"2,000,000",
-                "certification": "2x Platinum"
-            }, {
-                "albumName": "Aquemini",
-                "yearReleased": "September 29 1998",
-                "albumSold":"2,000,000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "Stankonia",
-                "yearReleased": "October 31 2000",
-                "albumSold":"4,000,000",
-                "certification": "4x Platinum"
-            },{
-                "albumName": "Speakerboxxx/The Love Below",
-                "yearReleased": "September 23 2003",
-                "albumSold":"10,000,000",
-                "certification": "Diamond"
-            },{
-                "albumName": "Idle",
-                "yearReleased": "August 22 200",
-                "albumSold":"10,000,000",
-                "certification": "Diamond"
-            }
-        ],
-    "record label": "Columbia, DefJam",
+      {
+        "albumName": "Southernplayalisticadillacmuzik",
+        "yearReleased": "April 26 1994",
+        "albumSold": "1,000,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "ATLiens",
+        "yearReleased": "August 27 1996",
+        "albumSold": "2,000,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "Aquemini",
+        "yearReleased": "September 29 1998",
+        "albumSold": "2,000,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "Stankonia",
+        "yearReleased": "October 31 2000",
+        "albumSold": "4,000,000",
+        "certification": "4x Platinum"
+      },
+      {
+        "albumName": "Speakerboxxx/The Love Below",
+        "yearReleased": "September 23 2003",
+        "albumSold": "10,000,000",
+        "certification": "Diamond"
+      },
+      {
+        "albumName": "Idle",
+        "yearReleased": "August 22 200",
+        "albumSold": "10,000,000",
+        "certification": "Diamond"
+      }
+    ],
+    "recordLabel": "Columbia, DefJam",
     "genre": "Hip Hop",
-    "years-active": "1989-Present",
+    "yearsActive": "1989-Present",
     "awards": [
-        {
-         "grammy": 1,
-         "bET awards": 2  
-        }
+      {
+        "grammy": 1,
+        "betAwards": 2
+      }
     ]
-},{
-         "artist": "Tupac",
-        "bio":   "Tupac Amaru Shakur born Lesane Parish Crooks, June 16, 1971 – September 13, 1996, better known by his stage name 2Pac and by his alias Makaveli, was an American rapper and actor. He is considered by many to be one of the most influential rappers of all time. Much of Shakur's work has been noted for addressing contemporary social issues that plagued inner cities, and he is considered a symbol of activism against inequality.Shakur was born in Manhattan, a borough of New York City, but relocated to Baltimore, Maryland in 1984 and then the San Francisco Bay Area in 1988. He moved to Los Angeles in 1993 to further pursue his music career. By the time he released his debut album 2Pacalypse Now in 1991, he had become a central figure in West Coast hip hop,",
+  },
+  {
+    "artist": "Tupac",
+    "bio": "Tupac Amaru Shakur born Lesane Parish Crooks, June 16, 1971 – September 13, 1996, better known by his stage name 2Pac and by his alias Makaveli, was an American rapper and actor. He is considered by many to be one of the most influential rappers of all time. Much of Shakur's work has been noted for addressing contemporary social issues that plagued inner cities, and he is considered a symbol of activism against inequality.Shakur was born in Manhattan, a borough of New York City, but relocated to Baltimore, Maryland in 1984 and then the San Francisco Bay Area in 1988. He moved to Los Angeles in 1993 to further pursue his music career. By the time he released his debut album 2Pacalypse Now in 1991, he had become a central figure in West Coast hip hop,",
 
-        
-        "debates":["gjghghg"],
-        "likes":[4234,5,4,3],
-
+    "debates": ["gjghghg"],
+    "likes": [4234, 5, 4, 3],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fconsequenceofsound.net%2Fwp-content%2Fuploads%2F2021%2F02%2F2Pac-1996.jpeg%3Fquality%3D80&imgrefurl=https%3A%2F%2Fconsequenceofsound.net%2F2021%2F02%2F2pac-all-eyez-on-me-editorial%2F&tbnid=YKa8SiAG9aUITM&vet=12ahUKEwjr5qHk09vvAhVMGN8KHb6bBT8QMygDegUIARDdAQ..i&docid=eHRsMw3fL0w31M&w=1200&h=676&q=2pac&hl=en&ved=2ahUKEwjr5qHk09vvAhVMGN8KHb6bBT8QMygDegUIARDdAQ",
     "album": [
-            {
-                "albumName": "2Pacalypse Now",
-                "yearReleased": "November 12 1991",
-                "albumSold":"923,455",
-                "certification": "Gold"
-            },
-            {
-                "albumName": "Strictly 4 My ******",
-                "yearReleased": "February 16 1993",
-                "albumSold":"1,639,584",
-                "certification": "Platinum"
-            }, {
-                "albumName": "Me Against the World",
-                "yearReleased": "March 14 1995",
-                "albumSold":"3,500,000",
-                "certification": "3x Platinum"
-            },{
-                "albumName": "All Eyez on Me",
-                "yearReleased": "February 13 1996",
-                "albumSold":"11,000,000",
-                "certification": "Diamond"
-            },{
-                "albumName": "The Don Killuminati: The 7 Day Theory",
-                "yearReleased": "Novembr 5 1996",
-                "albumSold":"5,000,000",
-                "certification": "5x Platinum"
-            },{
-                "albumName": "R U Still Down?",
-                "yearReleased": "November 25 1997",
-                "albumSold":"2,166,177",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "Still I Rise",
-                "yearReleased": "December 13 1999",
-                "albumSold":"1,000,000",
-                "certification": " Platinum"
-            },{
-                "albumName": "Until the End of Time",
-                "yearReleased": "March 27 2001",
-                "albumSold":"2,000,000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "Better Dayz",
-                "yearReleased": "November 26 2002",
-                "albumSold":"1,500,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Loyal to the Game",
-                "yearReleased": "December 14 2004",
-                "albumSold":"1,200,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Pac's Life",
-                "yearReleased": "November 21 2006",
-                "albumSold":"469,000",
-                "certification": "N/A"
-            }
-        ],
-    "record label": "Death Row , Interscope",
+      {
+        "albumName": "2Pacalypse Now",
+        "yearReleased": "November 12 1991",
+        "albumSold": "923,455",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Strictly 4 My ******",
+        "yearReleased": "February 16 1993",
+        "albumSold": "1,639,584",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Me Against the World",
+        "yearReleased": "March 14 1995",
+        "albumSold": "3,500,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "All Eyez on Me",
+        "yearReleased": "February 13 1996",
+        "albumSold": "11,000,000",
+        "certification": "Diamond"
+      },
+      {
+        "albumName": "The Don Killuminati: The 7 Day Theory",
+        "yearReleased": "Novembr 5 1996",
+        "albumSold": "5,000,000",
+        "certification": "5x Platinum"
+      },
+      {
+        "albumName": "R U Still Down?",
+        "yearReleased": "November 25 1997",
+        "albumSold": "2,166,177",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "Still I Rise",
+        "yearReleased": "December 13 1999",
+        "albumSold": "1,000,000",
+        "certification": " Platinum"
+      },
+      {
+        "albumName": "Until the End of Time",
+        "yearReleased": "March 27 2001",
+        "albumSold": "2,000,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "Better Dayz",
+        "yearReleased": "November 26 2002",
+        "albumSold": "1,500,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Loyal to the Game",
+        "yearReleased": "December 14 2004",
+        "albumSold": "1,200,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Pac's Life",
+        "yearReleased": "November 21 2006",
+        "albumSold": "469,000",
+        "certification": "N/A"
+      }
+    ],
+    "recordLabel": "Death Row , Interscope",
     "genre": "Hip Hop",
-    "years-active": "1989-1996",
+    "yearsActive": "1989-1996",
     "awards": [
-        {
-         "Grammy": 3,
-         "American Music awards": 1,
-         "Rock and Roll Hall of Fame": "2017"
-         
-        }
+      {
+        "grammy": 3,
+        "americanMusicAwards": 1,
+        "RockandRollHallofFame": "2017"
+      }
     ]
-},{
-        "artist": "Notorious BIG",
-        "bio":   "Christopher George Latore Wallace (May 21, 1972 – March 9, 1997), better known by his stage names the Notorious B.I.G., Biggie Smalls, or simply Biggie,was an American rapper and songwriter. Rooted in the New York rap scene and gangsta rap traditions, he is considered one of the greatest rappers of all time.Wallace became known for his distinctive laidback lyrical delivery, offsetting the lyrics' often grim content. His music was often semi-autobiographical, telling of hardship and criminality, but also of debauchery and celebration. Born and raised in Brooklyn, New York City, Wallace signed to Sean Puffy Combs'label Bad Boy Records as it launched in 1993, and gained exposure through features on several other artists' singles that year. His debut album Ready to Die (1994) was met with widespread critical acclaim, and included his signature songs Juicy and Big Poppa",
+  },
+  {
+    "artist": "Notorious BIG",
+    "bio": "Christopher George Latore Wallace (May 21, 1972 – March 9, 1997), better known by his stage names the Notorious B.I.G., Biggie Smalls, or simply Biggie,was an American rapper and songwriter. Rooted in the New York rap scene and gangsta rap traditions, he is considered one of the greatest rappers of all time.Wallace became known for his distinctive laidback lyrical delivery, offsetting the lyrics' often grim content. His music was often semi-autobiographical, telling of hardship and criminality, but also of debauchery and celebration. Born and raised in Brooklyn, New York City, Wallace signed to Sean Puffy Combs'label Bad Boy Records as it launched in 1993, and gained exposure through features on several other artists' singles that year. His debut album Ready to Die (1994) was met with widespread critical acclaim, and included his signature songs Juicy and Big Poppa",
 
-        
-        
-        "debates":["gjghghg"], 
-         
-     
-
-    "likes":[4234535,425,4254,2435,6,4,3,5,7,4,3],
-    "album": [
-
-            {
-                "albumName": "Ready to Die",
-                "yearReleased": "September 13 1994",
-                "albumSold":"6,000,000",
-                "certification": "6x Platinum"
-            },
-            {
-                "albumName": "Life After Death",
-                "yearReleased": "March 25 1997",
-                "albumSold":"10,000,000",
-                "certification": "Diamond"
-            }   
-],
-    "record label": "Bad Boy",
-    "genre": "Hip Hop",
-    "years-active": "1992-1997",
-    "awards": [
-        {
-         "Billboard Music awards": 3,
-         "Mtv video Music awards": 1,
-         "Rock and Roll Hall of Fame": "2020"
-         
-        }
-    ]
-},{
-        "artist": "Wu Tang Clan",
-        "bio":   "Wu-Tang Clan is an American hip hop group formed in Staten Island, New York City in 1992.Its original members include RZA, GZA, Ol' Dirty Bastard, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God, and Masta Killa. Close affiliate Cappadonna later became an official member. Wu-Tang Clan are regarded as a highly influential group in hip hop, helping to popularize and develop the East Coast hip hop and hardcore hip hop styles.After signing to Steve Rifkind's label Loud Records in 1992, Wu-Tang Clan released their debut album, Enter the Wu-Tang (36 Chambers), in 1993; it received widespread critical acclaim and has since been consistently rated as one of the greatest hip hop albums of all time",
-
-         
-        "debates":["gjghghg"],
-
-        "likes":[4234535,425],
+    "debates": ["gjghghg"],
+    "likes": [4234535, 425, 4254, 2435, 6, 4, 3, 5, 7, 4, 3],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Frobbreport.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fbigcrown.jpg%3Fw%3D1000&imgrefurl=https%3A%2F%2Frobbreport.com%2Fshelter%2Fart-collectibles%2Fnotorious-b-i-g-crown-auction-2946557%2F&tbnid=iIQ8zEeXQKyycM&vet=12ahUKEwiSy5v409vvAhVZWN8KHRKlAQYQMygHegUIARDmAQ..i&docid=dewCXuU8K3248M&w=1000&h=562&q=Notorious%20BIG&hl=en&ved=2ahUKEwiSy5v409vvAhVZWN8KHRKlAQYQMygHegUIARDmAQ",
 
     "album": [
-            {
-                "albumName": "Enter the Wu-Tang (36 Chambers)",
-                "yearReleased": "November 9 1993",
-                "albumSold":"3,000,000",
-                "certification": "3x Platinum"
-            },
-            {
-                "albumName": "Wu-Tang Forever",
-                "yearReleased": "June 3 1997",
-                "albumSold":"4,000,000",
-                "certification": "4x Platinum"
-            },{
-                "albumName": "The W",
-                "yearReleased": "November 21 2000",
-                "albumSold":"1,300,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Iron Flag",
-                "yearReleased": "December 18 2001",
-                "albumSold":"687,000",
-                "certification": "Gold"
-            },{
-                "albumName": "8 Diagram",
-                "yearReleased": "December 11 2007",
-                "albumSold":"202,000",
-                "certification": "N/A"
-            },{
-                "albumName": "A Better Tomorrow",
-                "yearReleased": "December 2 2014",
-                "albumSold":"60,000",
-                "certification": "N/A"
-            },{
-                "albumName": "Once Upon a Time in Shaolin",
-                "yearReleased": "November 25 2015",
-                "albumSold": "1",
-                "certification": "N/A"
-            }
-],
-    "record label": "Loud ,Columbia" ,
+      {
+        "albumName": "Ready to Die",
+        "yearReleased": "September 13 1994",
+        "albumSold": "6,000,000",
+        "certification": "6x Platinum"
+      },
+      {
+        "albumName": "Life After Death",
+        "yearReleased": "March 25 1997",
+        "albumSold": "10,000,000",
+        "certification": "Diamond"
+      }
+    ],
+    "recordLabel": "Bad Boy",
     "genre": "Hip Hop",
-    "years-active": "1992-Present",
+    "yearsActive": "1992-1997",
     "awards": [
-        {
-         "Grammy": 0
-         
-        }
+      {
+        "billBoardMusicAwards": 3,
+        "MtvvideoMusicawards": 1,
+        "RockandRollHallofFame": "2020"
+      }
     ]
-},{
-        "artist": "Eminem",
-        "bio":"Marshall Bruce Mathers III (born October 17, 1972), known professionally as Eminem (/ˌɛmɪˈnɛm/; often stylized as EMINƎM), is an American rapper, songwriter, and record producer. Eminem is among the best-selling music artists of all time, with estimated worldwide sales of more than 220 million records. He is credited with popularizing hip hop in Middle America and is critically acclaimed as one of the greatest rappers of all time.",
-         "likes":[56576],
-        "debates":["gjghghg"],
-    "album": [
-            {
-                "albumName": "The Slim Shady LP",
-                "yearReleased": "February 23 1999",
-                "albumSold":"5,433,000",
-                "certification": "5x Platinum"
-            },
-            {
-                "albumName": "The Marshall Mathers LP",
-                "yearReleased": "May 23 2000",
-                "albumSold":"21,000,000",
-                "certification": "Diamond"
-            },{
-                "albumName": "The Eminem Show",
-                "yearReleased": "May 26 2002",
-                "albumSold":"27,000,000",
-                "certification": "Diamond"
-            },{
-                "albumName": "Encore",
-                "yearReleased": "November 12 2004",
-                "albumSold":"5,400,0000",
-                "certification": "5x Platinum"
-            },{
-                "albumName": "Relaspe",
-                "yearReleased": "May 15 2009",
-                "albumSold":"2,300,000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "Recovery",
-                "yearReleased": "June 18 2010",
-                "albumSold":"10,000,000",
-                "certification": "Diamond"
-            },{
-                "albumName": "The Marshall Mathers LP 2",
-                "yearReleased": "November 5 2013",
-                "albumSold": "2,200,000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "Revival",
-                "yearReleased": "December 15 2017",
-                "albumSold": "435,000",
-                "certification": "N/A"
-            },{
-                "albumName": "Kamikaze",
-                "yearReleased": "August 31 2018",
-                "albumSold": "493,000",
-                "certification": "N/A"
-            },{
-                "albumName": "Music to Be Murdered By",
-                "yearReleased": "January 17 2020",
-                "albumSold": "1,000,000",
-                "certification": "Platinum"
-            }
-],
-    "record label": "Aftermath" ,
-    "genre": "Hip Hop",
-    "years-active": "1996-Present",
-    "awards": [
-        {
-         "Academy Award":1,   
-         "Grammy": 15,
-         "Billboard Music awards": 17
-         
-        }
-    ]
-},{
-        "artist": "50 Cent",
-        "bio":"Curtis James Jackson III (born July 6, 1975), known professionally as 50 Cent, is an American rapper, songwriter, television producer, actor, and entrepreneur. Known for his impact in the hip hop industry, he has been described as a master of the nuanced art of lyrical brevity.Born in the South Jamaica neighborhood of Queens, Jackson began selling drugs at age 12 during the 1980s crack epidemic. He later began pursuing a musical career and in 2000 he produced Power of the Dollar for Columbia Records, but days before the planned release he was shot and the album was never released. In 2002, after Jackson released the compilation album Guess Who's Back?, he was discovered by Eminem and signed to Shady Records, under the aegis of Dr. Dre's Aftermath Entertainment and Interscope Records.With the aid of Eminem and Dr. Dre (who produced his first major-label album Get Rich or Die Tryin'), Jackson became one of the world's best selling rappers and rose to prominence as de facto leader of East Coast hip hop group G-Unit.",
+  },
+  {
+    "artist": "Wu Tang Clan",
+    "bio": "Wu-Tang Clan is an American hip hop group formed in Staten Island, New York City in 1992.Its original members include RZA, GZA, Ol' Dirty Bastard, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God, and Masta Killa. Close affiliate Cappadonna later became an official member. Wu-Tang Clan are regarded as a highly influential group in hip hop, helping to popularize and develop the East Coast hip hop and hardcore hip hop styles.After signing to Steve Rifkind's label Loud Records in 1992, Wu-Tang Clan released their debut album, Enter the Wu-Tang (36 Chambers), in 1993; it received widespread critical acclaim and has since been consistently rated as one of the greatest hip hop albums of all time",
 
-         
-        "debates":["gjghghg"],
+    "debate": ["gjghghg"],
+    "likes": [4234535, 425],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ffactmag-images.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2017%2F05%2Fwutangforever-5.24.2017.jpg&imgrefurl=https%3A%2F%2Fwww.factmag.com%2F2017%2F06%2F04%2Fwu-tang-forever-20-years%2F&tbnid=UP4frC_YCjJruM&vet=12ahUKEwjkzdS31NvvAhWFEt8KHYivDsMQMygWegUIARD_AQ..i&docid=xGvevzgmFfI2AM&w=1940&h=1100&q=Wu%20Tang%20Clan&hl=en&ved=2ahUKEwjkzdS31NvvAhWFEt8KHYivDsMQMygWegUIARD_AQ",
+    "album": [
+      {
+        "albumName": "Enter the Wu-Tang (36 Chambers)",
+        "yearReleased": "November 9 1993",
+        "albumSold": "3,000,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "Wu-Tang Forever",
+        "yearReleased": "June 3 1997",
+        "albumSold": "4,000,000",
+        "certification": "4x Platinum"
+      },
+      {
+        "albumName": "The W",
+        "yearReleased": "November 21 2000",
+        "albumSold": "1,300,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Iron Flag",
+        "yearReleased": "December 18 2001",
+        "albumSold": "687,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "8 Diagram",
+        "yearReleased": "December 11 2007",
+        "albumSold": "202,000",
+        "certification": "N/A"
+      },
+      {
+        "albumName": "A Better Tomorrow",
+        "yearReleased": "December 2 2014",
+        "albumSold": "60,000",
+        "certification": "N/A"
+      },
+      {
+        "albumName": "Once Upon a Time in Shaolin",
+        "yearReleased": "November 25 2015",
+        "albumSold": "1",
+        "certification": "N/A"
+      }
+    ],
+    "recorLabel": "Loud ,Columbia",
+    "genre": "Hip Hop",
+    "yearsActive": "1992-Present",
+    "awards": [
+      {
+        "grammy": 0
+      }
+    ]
+  },
+  {
+    "artist": "Eminem",
+    "bio": "Marshall Bruce Mathers III (born October 17, 1972), known professionally as Eminem (/ˌɛmɪˈnɛm/; often stylized as EMINƎM), is an American rapper, songwriter, and record producer. Eminem is among the best-selling music artists of all time, with estimated worldwide sales of more than 220 million records. He is credited with popularizing hip hop in Middle America and is critically acclaimed as one of the greatest rappers of all time.",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.factmag.com%2F2015%2F04%2F02%2Feminem-talks-first-recording-session-with-dre-origin-of-slim-shady-and-lose-yourself-on-genius%2F&psig=AOvVaw355vwojUsgKXyRKPC04G6_&ust=1617319096604000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjdxNLV2-8CFQAAAAAdAAAAABAD",
+    "album": [
+      {
+        "albumName": "The Slim Shady LP",
+        "yearReleased": "February 23 1999",
+        "albumSold": "5,433,000",
+        "certification": "5x Platinum"
+      },
+      {
+        "albumName": "The Marshall Mathers LP",
+        "yearReleased": "May 23 2000",
+        "albumSold": "21,000,000",
+        "certification": "Diamond"
+      },
+      {
+        "albumName": "The Eminem Show",
+        "yearReleased": "May 26 2002",
+        "albumSold": "27,000,000",
+        "certification": "Diamond"
+      },
+      {
+        "albumName": "Encore",
+        "yearReleased": "November 12 2004",
+        "albumSold": "5,400,0000",
+        "certification": "5x Platinum"
+      },
+      {
+        "albumName": "Relaspe",
+        "yearReleased": "May 15 2009",
+        "albumSold": "2,300,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "Recovery",
+        "yearReleased": "June 18 2010",
+        "albumSold": "10,000,000",
+        "certification": "Diamond"
+      },
+      {
+        "albumName": "The Marshall Mathers LP 2",
+        "yearReleased": "November 5 2013",
+        "albumSold": "2,200,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "Revival",
+        "yearReleased": "December 15 2017",
+        "albumSold": "435,000",
+        "certification": "N/A"
+      },
+      {
+        "albumName": "Kamikaze",
+        "yearReleased": "August 31 2018",
+        "albumSold": "493,000",
+        "certification": "N/A"
+      },
+      {
+        "albumName": "Music to Be Murdered By",
+        "yearReleased": "January 17 2020",
+        "albumSold": "1,000,000",
+        "certification": "Platinum"
+      }
+    ],
+    "recordLabel": "Aftermath",
+    "genre": "Hip Hop",
+    "yearsActive": "1996-Present",
+    "awards": [
+      {
+        "academyAward": 1,
+        "grammy": 15,
+        "billboardMusicAwards": 17
+      }
+    ]
+  },
+  {
+    "artist": "50 Cent",
+    "bio": "Curtis James Jackson III (born July 6, 1975), known professionally as 50 Cent, is an American rapper, songwriter, television producer, actor, and entrepreneur. Known for his impact in the hip hop industry, he has been described as a master of the nuanced art of lyrical brevity.Born in the South Jamaica neighborhood of Queens, Jackson began selling drugs at age 12 during the 1980s crack epidemic. He later began pursuing a musical career and in 2000 he produced Power of the Dollar for Columbia Records, but days before the planned release he was shot and the album was never released. In 2002, after Jackson released the compilation album Guess Who's Back?, he was discovered by Eminem and signed to Shady Records, under the aegis of Dr. Dre's Aftermath Entertainment and Interscope Records.With the aid of Eminem and Dr. Dre (who produced his first major-label album Get Rich or Die Tryin'), Jackson became one of the world's best selling rappers and rose to prominence as de facto leader of East Coast hip hop group G-Unit.",
 
-        "likes":[4234535,425,4254,2435,4],
+    "debates": ["gjghghg"],
+    "likes": [4234535, 425, 4254, 2435, 4],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.discogs.com%2FV_X0Ppo0ipteqrWrBV9iHiclDXY%3D%2Ffit-in%2F600x600%2Ffilters%3Astrip_icc()%3Aformat(jpeg)%3Amode_rgb()%3Aquality(90)%2Fdiscogs-images%2FR-13768915-1560708509-4884.jpeg.jpg&imgrefurl=https%3A%2F%2Fwww.discogs.com%2F50-Cent-Get-Rich-Or-Die-Tryin%2Frelease%2F13768915&tbnid=wa6NZHkfVVdhgM&vet=12ahUKEwivzNL-1dvvAhXJi-AKHVpMCnsQMygBegUIARDJAQ..i&docid=1OR-RFl9orBQbM&w=600&h=600&q=50%20cent%20get%20rich%20or%20die%20tryin&hl=en&ved=2ahUKEwivzNL-1dvvAhXJi-AKHVpMCnsQMygBegUIARDJAQ",
 
     "album": [
-            {
-                "albumName": "Get Rich or Die Tryin'",
-                "yearReleased": "February 6 2003",
-                "albumSold":"12,000,000",
-                "certification": "Diamond"
-            },
-            {
-                "albumName": "The Massacre",
-                "yearReleased": "March 3 2005",
-                "albumSold":"5,360,000",
-                "certification": "5x Platinum"
-            },{
-                "albumName": "Curtis",
-                "yearReleased": "September 11 2007",
-                "albumSold":"1,336,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Before I Self Destruct",
-                "yearReleased": "November 9 2009",
-                "albumSold":"512,000",
-                "certification": "Gold"
-            },{
-                "albumName": "Animal Ambition",
-                "yearReleased": "June 3 2014",
-                "albumSold":"124,000",
-                "certification": "N/A"
-            }
-],
-    "record label": "Shady, Aftermath" ,
+      {
+        "albumName": "Get Rich or Die Tryin'",
+        "yearReleased": "February 6 2003",
+        "albumSold": "12,000,000",
+        "certification": "Diamond"
+      },
+      {
+        "albumName": "The Massacre",
+        "yearReleased": "March 3 2005",
+        "albumSold": "5,360,000",
+        "certification": "5x Platinum"
+      },
+      {
+        "albumName": "Curtis",
+        "yearReleased": "September 11 2007",
+        "albumSold": "1,336,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Before I Self Destruct",
+        "yearReleased": "November 9 2009",
+        "albumSold": "512,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Animal Ambition",
+        "yearReleased": "June 3 2014",
+        "albumSold": "124,000",
+        "certification": "N/A"
+      }
+    ],
+    "recordLabel": "Shady, Aftermath",
     "genre": "Hip Hop",
-    "years-active": "1996-Present",
+    "yearsActive": "1996-Present",
     "awards": [
-        {
-        "Grammy": 1
-         
-        }
+      {
+        "grammy": 1
+      }
     ]
-},{
-        "artist": "Kendrick Lamar",
-        "bio":"Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, songwriter, and record producer. Since his mainstream debut in 2012 with Good Kid, M.A.A.D. City, Lamar has been regarded as one of the most influential artists of his generation, as well as one of the greatest rappers and lyricists of all time.Aside from his solo career, he is also known as a member of the hip hop supergroup Black Hippy alongside his Top Dawg Entertainment (TDE) label-mates Ab-Soul, Jay Rock, and Schoolboy Q.",
-         "likes":[56576],
-        "debates":["gjghghg"],
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "bio": "Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, songwriter, and record producer. Since his mainstream debut in 2012 with Good Kid, M.A.A.D. City, Lamar has been regarded as one of the most influential artists of his generation, as well as one of the greatest rappers and lyricists of all time.Aside from his solo career, he is also known as a member of the hip hop supergroup Black Hippy alongside his Top Dawg Entertainment (TDE) label-mates Ab-Soul, Jay Rock, and Schoolboy Q.",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.wearemotto.com%2Fwp-content%2Fuploads%2F2019%2F11%2F28150647%2Fkendrick.jpg&imgrefurl=https%3A%2F%2Fwearemotto.com%2Fwhat-kendrick-lamar-can-teach-leaders-about-greatness%2F&tbnid=78N0E0KyIhn6eM&vet=12ahUKEwiOuZmc1tvvAhVHFt8KHYh_BxsQMygfegUIARCXAg..i&docid=_NqeqkGX4ZrDfM&w=1920&h=1080&q=endrick%20Lamar&hl=en&ved=2ahUKEwiOuZmc1tvvAhVHFt8KHYh_BxsQMygfegUIARCXAg",
     "album": [
-            {
-                "albumName": "Section.80",
-                "yearReleased": "July 2 2011",
-                "albumSold":"130,000",
-                "certification": "N/A"
-            },
-            {
-                "albumName": "Good Kid, M.A.A.D City",
-                "yearReleased": "October 22 2012",
-                "albumSold":"1,720,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "To Pimp a Butterfly",
-                "yearReleased": "March 16 2015",
-                "albumSold":"1,050,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Damn",
-                "yearReleased": "April 14 2017",
-                "albumSold":"1,300,000",
-                "certification": "Platinum"
-            }
-],
-    "record label": "Top Dawg , Aftermath",
+      {
+        "albumName": "Section.80",
+        "yearReleased": "July 2 2011",
+        "albumSold": "130,000",
+        "certification": "N/A"
+      },
+      {
+        "albumName": "Good Kid, M.A.A.D City",
+        "yearReleased": "October 22 2012",
+        "albumSold": "1,720,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "To Pimp a Butterfly",
+        "yearReleased": "March 16 2015",
+        "albumSold": "1,050,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Damn",
+        "yearReleased": "April 14 2017",
+        "albumSold": "1,300,000",
+        "certification": "Platinum"
+      }
+    ],
+    "recordLabel": "Top Dawg , Aftermath",
     "genre": "Hip Hop",
-    "years-active": "2004-Present",
+    "yearsActive": "2004-Present",
     "awards": [
-        {
-        "Grammy": 13,
-        "American Music awards": 2
-        }
+      {
+        "grammy": 13,
+        "americanMusicAwards": 2
+      }
     ]
-},{
-        "artist": "Drake",
-        "bio":"Aubrey Drake Graham (born October 24, 1986) is a Canadian rapper, singer, songwriter, actor, and entrepreneur.A prominent figure in popular music, Drake is credited for popularizing the Toronto sound. He first gained recognition as an actor on the teen drama television series Degrassi: The Next Generation (2001–2007); intent on pursuing a career in music, he left the series after releasing his debut mixtape Room for Improvement (2006). He released two more independent projects, Comeback Season (2007) and So Far Gone (2009), before signing to Lil Wayne's Young Money Entertainment",
-         "likes":[56576],
-        "debates":["gjghghg"],
+  },
+  {
+    "artist": "Drake",
+    "bio": "Aubrey Drake Graham (born October 24, 1986) is a Canadian rapper, singer, songwriter, actor, and entrepreneur.A prominent figure in popular music, Drake is credited for popularizing the Toronto sound. He first gained recognition as an actor on the teen drama television series Degrassi: The Next Generation (2001–2007); intent on pursuing a career in music, he left the series after releasing his debut mixtape Room for Improvement (2006). He released two more independent projects, Comeback Season (2007) and So Far Gone (2009), before signing to Lil Wayne's Young Money Entertainment",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b273f907de96b9a4fbc04accc0d5&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fartist%2F3TVXtAsR1Inumwj472S9r4&tbnid=_3b73M5A3kUVrM&vet=12ahUKEwitlePB1tvvAhXJi-AKHVpMCnsQMygqegUIARCuAg..i&docid=I3Zuynpl9kPAmM&w=640&h=640&q=Drake&hl=en&ved=2ahUKEwitlePB1tvvAhXJi-AKHVpMCnsQMygqegUIARCuAg",
     "album": [
-            {
-                "albumName": "Thank Me Later",
-                "yearReleased": "June 15 2010",
-                "albumSold":"1,830,000",
-                "certification": "Platinum"
-            },
-            {
-                "albumName": "Take Care",
-                "yearReleased": "November 15 2011",
-                "albumSold":"2,338,000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "Nothing was the Same",
-                "yearReleased": "September 24 2013",
-                "albumSold":"1,783,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Views",
-                "yearReleased": "April 29 2016",
-                "albumSold":"1,739,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Scorpian",
-                "yearReleased": "June 29 2018",
-                "albumSold":"407,600",
-                "certification": "N/A"
-            }
-],
-    "record label": " Young Money, Cash Money",
+      {
+        "albumName": "Thank Me Later",
+        "yearReleased": "June 15 2010",
+        "albumSold": "1,830,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Take Care",
+        "yearReleased": "November 15 2011",
+        "albumSold": "2,338,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "Nothing was the Same",
+        "yearReleased": "September 24 2013",
+        "albumSold": "1,783,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Views",
+        "yearReleased": "April 29 2016",
+        "albumSold": "1,739,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Scorpian",
+        "yearReleased": "June 29 2018",
+        "albumSold": "407,600",
+        "certification": "N/A"
+      }
+    ],
+    "recordLabel": " Young Money, Cash Money",
     "genre": "Hip Hop",
-    "years-active": "2001-Present",
+    "yearsActive": "2001-Present",
     "awards": [
-        {
-        "Grammy": 4,
-        "MTV Video Music awards ": 2
-        }
+      {
+        "grammy": 4,
+        "MTVvideoMusicAwards ": 2
+      }
     ]
-},{
-        "artist": "J cole",
-        "bio":"Jermaine Lamarr Cole (born January 28, 1985) is a German-born American rapper, singer, songwriter, and record producer. Cole is regarded as one of the most influential rappers of his generation.Born on a military base in Germany and raised in Fayetteville, North Carolina, Cole initially gained recognition as a rapper following the release of his debut mixtape, The Come Up, in early 2007. Intent on further pursuing a musical career, he went on to release two additional mixtapes, The Warm Up (2009) and Friday Night Lights (2010) both to critical acclaim, after signing to Jay-Z's Roc Nation imprint in 2009.",
-         "likes":[56576],
-        "debates":["gjghghg"],
+  },
+  {
+    "artist": "J cole",
+    "bio": "Jermaine Lamarr Cole (born January 28, 1985) is a German-born American rapper, singer, songwriter, and record producer. Cole is regarded as one of the most influential rappers of his generation.Born on a military base in Germany and raised in Fayetteville, North Carolina, Cole initially gained recognition as a rapper following the release of his debut mixtape, The Come Up, in early 2007. Intent on further pursuing a musical career, he went on to release two additional mixtapes, The Warm Up (2009) and Friday Night Lights (2010) both to critical acclaim, after signing to Jay-Z's Roc Nation imprint in 2009.",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fakns-images.eonline.com%2Feol_images%2FEntire_Site%2F2020621%2Frs_600x600-200721070804-600-J-Cole-LT-072120-GettyImages-584457472.jpg%3Ffit%3Daround%257C1200%3A1200%26output-quality%3D90%26crop%3D1200%3A1200%3Bcenter%2Ctop&imgrefurl=https%3A%2F%2Fwww.eonline.com%2Fnews%2F1172378%2Frapper-j-cole-confirms-he-has-2-sons-in-personal-essay&tbnid=YbKE-QEAV02yBM&vet=12ahUKEwjMt8Pm1tvvAhXan-AKHX6vBkEQMygXegUIARD9AQ..i&docid=MF5S1Zem7ngaVM&w=1200&h=1200&q=J%20cole&hl=en&ved=2ahUKEwjMt8Pm1tvvAhXan-AKHX6vBkEQMygXegUIARD9AQ",
     "album": [
-            {
-                "albumName": "Cole World: The Sideline Story",
-                "yearReleased": "September 27 2011",
-                "albumSold":"855,000",
-                "certification": "Gold"
-            },
-            {
-                "albumName": "Born Sinner ",
-                "yearReleased": "June 18 2013",
-                "albumSold":"796,000",
-                "certification": "Gold"
-            },{
-                "albumName": "2014 Forest Hills Drive",
-                "yearReleased": "December 9 2014",
-                "albumSold":"1,240,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "4 Your Eyez Only",
-                "yearReleased": "December 9 2016",
-                "albumSold":"1,000,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "KOD",
-                "yearReleased": "April 30 2018",
-                "albumSold":"1,131,000",
-                "certification": "Platinum"
-            }
-],
-    "record label": "Roc Nation",
+      {
+        "albumName": "Cole World: The Sideline Story",
+        "yearReleased": "September 27 2011",
+        "albumSold": "855,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Born Sinner ",
+        "yearReleased": "June 18 2013",
+        "albumSold": "796,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "2014 Forest Hills Drive",
+        "yearReleased": "December 9 2014",
+        "albumSold": "1,240,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "4 Your Eyez Only",
+        "yearReleased": "December 9 2016",
+        "albumSold": "1,000,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "KOD",
+        "yearReleased": "April 30 2018",
+        "albumSold": "1,131,000",
+        "certification": "Platinum"
+      }
+    ],
+    "recordLabel": "Roc Nation",
     "genre": "Hip Hop",
-    "years-active": "2007-Present",
+    "yearsActive": "2007-Present",
     "awards": [
-        {
-        "Grammy": 1,
-        "Billboard Music awards ": 1
-        }
+      {
+        "grammy": 1,
+        "billboardMusicAwards ": 1
+      }
     ]
-},{
-        "artist": "Big Sean",
-        "bio":"Sean Michael Leonard Anderson was born on March 25, 1988 in Santa Monica, California[3] to Myra and James Anderson. When he was 3 months old, he moved to Detroit, Michigan, where he was raised by his mother, a school teacher, and his grandmother.[2][4] Anderson's grandmother, Mildred Leonard, served in World War II, and was one of the first ever black female captains in the United States Army.[5] He attended the Detroit Waldorf School and graduated from Cass Technical High School with a 3.7 GPA.After releasing a number of mixtapes,Sean signed with Kanye West's GOOD Music in 2007",
-         "likes":[56576],
-        "debates":["gjghghg"],
+  },
+  {
+    "artist": "Big Sean",
+    "bio": "Sean Michael Leonard Anderson was born on March 25, 1988 in Santa Monica, California[3] to Myra and James Anderson. When he was 3 months old, he moved to Detroit, Michigan, where he was raised by his mother, a school teacher, and his grandmother.[2][4] Anderson's grandmother, Mildred Leonard, served in World War II, and was one of the first ever black female captains in the United States Army.[5] He attended the Detroit Waldorf School and graduated from Cass Technical High School with a 3.7 GPA.After releasing a number of mixtapes,Sean signed with Kanye West's GOOD Music in 2007",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1339237678877904898%2FiXEzc6yR.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fbigseansworld&tbnid=Ia7uGEXnZWHuMM&vet=10CHwQMyiiAWoXChMI6PXsvNfb7wIVAAAAAB0AAAAAEAI..i&docid=WrkDwV5ZhWODQM&w=400&h=400&q=Big%20Sean&hl=en&ved=0CHwQMyiiAWoXChMI6PXsvNfb7wIVAAAAAB0AAAAAEAI",
+
     "album": [
-            {
-                "albumName": "Finally Famous",
-                "yearReleased": "June 28 2011",
-                "albumSold":"1,000,000",
-                "certification": "Platinum"
-            },
-            {
-                "albumName": "Hall of Fame ",
-                "yearReleased": "August 27 2013",
-                "albumSold":"500,000",
-                "certification": "Gold"
-            },{
-                "albumName": "Dark Sky Paradise",
-                "yearReleased": "February 24 2015",
-                "albumSold":"2,000,000",
-                "certification": "2x Platinum"
-            },{
-                "albumName": "I Decided",
-                "yearReleased": "February 3 2017",
-                "albumSold":"1,000,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Detroit 2",
-                "yearReleased": "September 4 2018",
-                "albumSold":"N/A",
-                "certification": "N/A"
-            }
-],
-    "record label": "GOOD",
+      {
+        "albumName": "Finally Famous",
+        "yearReleased": "June 28 2011",
+        "albumSold": "1,000,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Hall of Fame ",
+        "yearReleased": "August 27 2013",
+        "albumSold": "500,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Dark Sky Paradise",
+        "yearReleased": "February 24 2015",
+        "albumSold": "2,000,000",
+        "certification": "2x Platinum"
+      },
+      {
+        "albumName": "I Decided",
+        "yearReleased": "February 3 2017",
+        "albumSold": "1,000,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Detroit 2",
+        "yearReleased": "September 4 2018",
+        "albumSold": "N/A",
+        "certification": "N/A"
+      }
+    ],
+    "recordLabel": "GOOD",
     "genre": "Hip Hop",
-    "years-active": "2007-Present",
+    "yearsActive": "2007-Present",
     "awards": [
-        {
-        "MTV awards": 1,
-        "BET awards ": 1
-        }
+      {
+        "MTVawards": 1,
+        "betAawards ": 1
+      }
     ]
-},{
-        "artist": "Lil Wayne",
-        "bio":"Dwayne Michael Carter Jr. (born September 27, 1982),better known by his stage name Lil Wayne, is an American rapper, singer, songwriter, record executive, entrepreneur, and actor. He is regarded by many contemporaries as one of the most influential hip hop artists of his generation,and often cited as one of the greatest rappers of all time. His career began in 1995, at the age of 12, when he was signed by rapper Birdman, joining Cash Money Records as the youngest member of the label.For many years, Lil Wayne was the flagship artist of Cash Money Records, before ending his association with the company in June 2018.",
-         "likes":[56576],
-        "debates":["gjghghg"],
+  },
+  {
+    "artist": "Lil Wayne",
+    "bio": "Dwayne Michael Carter Jr. (born September 27, 1982),better known by his stage name Lil Wayne, is an American rapper, singer, songwriter, record executive, entrepreneur, and actor. He is regarded by many contemporaries as one of the most influential hip hop artists of his generation,and often cited as one of the greatest rappers of all time. His career began in 1995, at the age of 12, when he was signed by rapper Birdman, joining Cash Money Records as the youngest member of the label.For many years, Lil Wayne was the flagship artist of Cash Money Records, before ending his association with the company in June 2018.",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F282ad68589d12c94a9439aad73181466d75c54eb%2F0_150_3600_2160%2Fmaster%2F3600.jpg%3Fwidth%3D1200%26height%3D1200%26quality%3D85%26auto%3Dformat%26fit%3Dcrop%26s%3Dc8e2be5dd59936e726bdeb8e5acf1b13&imgrefurl=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2020%2Fnov%2F18%2Flil-wayne-faces-up-to-10-years-in-jail-on-weapons-possession-charges&tbnid=rYbfaAZlH-RqbM&vet=12ahUKEwiaxsPo19vvAhUHMN8KHcrRDYEQMygKegUIARDmAQ..i&docid=Xp0GtqRjhS54ZM&w=1200&h=1200&q=Lil%20Wayne&hl=en&ved=2ahUKEwiaxsPo19vvAhUHMN8KHcrRDYEQMygKegUIARDmAQ",
     "album": [
-            {
-                "albumName": "Tha Block Is Hot",
-                "yearReleased": "November 2 1999",
-                "albumSold":"1,400,000",
-                "certification": "Platinum"
-            },
-            {
-                "albumName": "Lights Out",
-                "yearReleased": "December 19 2000",
-                "albumSold":"500,000",
-                "certification": "Gold"
-            },{
-                "albumName": "500 Degreez",
-                "yearReleased": "July 23 2002",
-                "albumSold":"500,000",
-                "certification": "Gold"
-            },{
-                "albumName": "Tha Carter",
-                "yearReleased": "June 29 2004",
-                "albumSold":"1,000,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Tha Carter II",
-                "yearReleased": "December 6 2005",
-                "albumSold":"1,400,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Like Father, Like Son",
-                "yearReleased": "October 31 2006",
-                "albumSold":"500,000",
-                "certification": "Gold"
-            },{
-                "albumName": "Tha Carter III ",
-                "yearReleased": "June 10 2008",
-                "albumSold":"3,800,000",
-                "certification": "3x Platinum"
-            },{
-                "albumName": "Rebirth ",
-                "yearReleased": "September 2 2010",
-                "albumSold":"849,000",
-                "certification": "Gold"
-            },{
-                "albumName": "I Am Not a Human Being ",
-                "yearReleased": "September 27 2010",
-                "albumSold":"1,000,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Tha Carter IV ",
-                "yearReleased": "August 29 2011",
-                "albumSold":"3,500,000",
-                "certification": "5x Platinum"
-            },{
-                "albumName": "I Am Not a Human Being II ",
-                "yearReleased": "March 26 2013",
-                "albumSold":"529,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Free weezy Album",
-                "yearReleased": "July 4 2015",
-                "albumSold":"N/A",
-                "certification": "N/A"
-            },{
-                "albumName": "Tha Carter V",
-                "yearReleased": "September 28 2018",
-                "albumSold":"140,000",
-                "certification": "Platinum"
-            },{
-                "albumName": "Funeral",
-                "yearReleased": "January 31 2020",
-                "albumSold":"38,000",
-                "certification": "N/A"
-            }
-],
-    "record label": "Young Money, Cash Money",
+      {
+        "albumName": "Tha Block Is Hot",
+        "yearReleased": "November 2 1999",
+        "albumSold": "1,400,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Lights Out",
+        "yearReleased": "December 19 2000",
+        "albumSold": "500,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "500 Degreez",
+        "yearReleased": "July 23 2002",
+        "albumSold": "500,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Tha Carter",
+        "yearReleased": "June 29 2004",
+        "albumSold": "1,000,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Tha Carter II",
+        "yearReleased": "December 6 2005",
+        "albumSold": "1,400,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Like Father, Like Son",
+        "yearReleased": "October 31 2006",
+        "albumSold": "500,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Tha Carter III ",
+        "yearReleased": "June 10 2008",
+        "albumSold": "3,800,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "Rebirth ",
+        "yearReleased": "September 2 2010",
+        "albumSold": "849,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "I Am Not a Human Being ",
+        "yearReleased": "September 27 2010",
+        "albumSold": "1,000,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Tha Carter IV ",
+        "yearReleased": "August 29 2011",
+        "albumSold": "3,500,000",
+        "certification": "5x Platinum"
+      },
+      {
+        "albumName": "I Am Not a Human Being II ",
+        "yearReleased": "March 26 2013",
+        "albumSold": "529,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Free weezy Album",
+        "yearReleased": "July 4 2015",
+        "albumSold": "N/A",
+        "certification": "N/A"
+      },
+      {
+        "albumName": "Tha Carter V",
+        "yearReleased": "September 28 2018",
+        "albumSold": "140,000",
+        "certification": "Platinum"
+      },
+      {
+        "albumName": "Funeral",
+        "yearReleased": "January 31 2020",
+        "albumSold": "38,000",
+        "certification": "N/A"
+      }
+    ],
+    "recordLabel": "Young Money, Cash Money",
     "genre": "Hip Hop",
-    "years-active": "1995-Present",
+    "yearsActive": "1995-Present",
     "awards": [
-        {
-        "Grammy": 5,
-        "Billboard Award": 4
-        }
+      {
+        "grammy": 5,
+        "billBoardMusicAwards": 4
+      }
     ]
-},{
-        "artist": "Kanye West",
-        "bio":"Kanye Omari West born June 8, 1977 is an American rapper, record producer, fashion designer.He has been influential in the 21st-century development of mainstream hip hop and popular music in general.Born in Atlanta and raised in Chicago, West was first known as a producer for Roc-A-Fella Records in the early 2000s, producing singles for several mainstream artists. Intent on pursuing a solo career as a rapper, West released his debut album The College Dropout in 2004 to critical and commercial success, and founded the record label GOOD Music.",
-         "likes":[56576],
-        "debates":["gjghghg"],
+  },
+  {
+    "artist": "Kanye West",
+    "bio": "Kanye Omari West born June 8, 1977 is an American rapper, record producer, fashion designer.He has been influential in the 21st-century development of mainstream hip hop and popular music in general.Born in Atlanta and raised in Chicago, West was first known as a producer for Roc-A-Fella Records in the early 2000s, producing singles for several mainstream artists. Intent on pursuing a solo career as a rapper, West released his debut album The College Dropout in 2004 to critical and commercial success, and founded the record label GOOD Music.",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F272%2F0*SBTNknDmMZNzR4Lb.jpg&imgrefurl=https%3A%2F%2Fmedium.com%2F%40otisglnn%2Fall-of-us-miss-the-old-kanye-84debf88fd7c&tbnid=z2tyvxxgFb21CM&vet=12ahUKEwjEwpSM2NvvAhUUWt8KHSWbCgQQMygFegUIARCNAQ..i&docid=dsocVHHIZXd_IM&w=272&h=409&q=old%20Kanye%20West&hl=en&ved=2ahUKEwjEwpSM2NvvAhUUWt8KHSWbCgQQMygFegUIARCNAQ",
     "album": [
-            {
-                "albumName": "The College Dropout",
-                "yearReleased": "February 10 2004",
-                "albumSold":"3,358,000",
-                "certification": "4x Platinum"
-            },
-            {
-                "albumName": "Late Registration",
-                "yearReleased": "August 30 2005",
-                "albumSold":"3,100,000",
-                "certification": "4x Platinum"
-            },{
-                "albumName": "Graduation",
-                "yearReleased": "September 11 2007",
-                "albumSold":"2,700,000",
-                "certification": "5x Platinum"
-            },{
-                "albumName": "808s & Heartbreak",
-                "yearReleased": "November 24 2008",
-                "albumSold":"1,700,000",
-                "certification": "3x Platinum"
-            },{
-                "albumName": "My Beautiful Dark Twisted Fantasy",
-                "yearReleased": "November 22 2010",
-                "albumSold":"1,400,000",
-                "certification": "3x Platinum"
-            },{
-                "albumName": "Yeezus",
-                "yearReleased": "June 18 2013",
-                "albumSold":"500,000",
-                "certification": "Gold"
-            },{
-                "albumName": "The Life of Pablo",
-                "yearReleased": "February 14 2016",
-                "albumSold":"2,000,000",
-                "certification": "3x Platinum"
-            },{
-                "albumName": "Ye ",
-                "yearReleased": "June 1 2018",
-                "albumSold":"85,000",
-                "certification": "Gold"
-            },{
-                "albumName": "Jesus Is King",
-                "yearReleased": "October 25 2019",
-                "albumSold":"100,000",
-                "certification": "Gold"
-            }
-],
-    "record label": "Roc-A-Fella, Def Jam, GOOD",
+      {
+        "albumName": "The College Dropout",
+        "yearReleased": "February 10 2004",
+        "albumSold": "3,358,000",
+        "certification": "4x Platinum"
+      },
+      {
+        "albumName": "Late Registration",
+        "yearReleased": "August 30 2005",
+        "albumSold": "3,100,000",
+        "certification": "4x Platinum"
+      },
+      {
+        "albumName": "Graduation",
+        "yearReleased": "September 11 2007",
+        "albumSold": "2,700,000",
+        "certification": "5x Platinum"
+      },
+      {
+        "albumName": "808s & Heartbreak",
+        "yearReleased": "November 24 2008",
+        "albumSold": "1,700,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "My Beautiful Dark Twisted Fantasy",
+        "yearReleased": "November 22 2010",
+        "albumSold": "1,400,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "Yeezus",
+        "yearReleased": "June 18 2013",
+        "albumSold": "500,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "The Life of Pablo",
+        "yearReleased": "February 14 2016",
+        "albumSold": "2,000,000",
+        "certification": "3x Platinum"
+      },
+      {
+        "albumName": "Ye ",
+        "yearReleased": "June 1 2018",
+        "albumSold": "85,000",
+        "certification": "Gold"
+      },
+      {
+        "albumName": "Jesus Is King",
+        "yearReleased": "October 25 2019",
+        "albumSold": "100,000",
+        "certification": "Gold"
+      }
+    ],
+    "recordLabel": "Roc-A-Fella, Def Jam, GOOD",
     "genre": "Hip Hop",
-    "years-active": "1996-Present",
+    "yearsActive": "1996-Present",
     "awards": [
-        {
-        "Grammy": 22,
-        "Billboard Award": 9
-        }
+      {
+        "grammy": 22,
+        "billBoardMusicAwards": 9
+      }
     ]
-},{
-        "artist": "Pop Smoke",
-        "bio":"Bashar Barakah Jackson (July 20, 1999 – February 19, 2020), known professionally as Pop Smoke, was an American rapper, singer, and songwriter. He was considered by many to be the face of Brooklyn drill. Born and raised in Canarsie, Brooklyn, Pop Smoke began his musical career in 2018 upon releasing his debut single titled Mpr (Panic Part 3 Remix). He often collaborated with UK drill artists and producers, who employed more minimal and aggressive instrumentation than drill artists from Chicago. Pop Smoke rose to fame with the release of his breakout single Welcome to the Party in 2019." ,
-         "likes":[56576],
-        "debates":["gjghghg"],
+  },
+  {
+    "artist": "Pop Smoke",
+    "bio": "Bashar Barakah Jackson (July 20, 1999 – February 19, 2020), known professionally as Pop Smoke, was an American rapper, singer, and songwriter. He was considered by many to be the face of Brooklyn drill. Born and raised in Canarsie, Brooklyn, Pop Smoke began his musical career in 2018 upon releasing his debut single titled Mpr (Panic Part 3 Remix). He often collaborated with UK drill artists and producers, who employed more minimal and aggressive instrumentation than drill artists from Chicago. Pop Smoke rose to fame with the release of his breakout single Welcome to the Party in 2019.",
+    "likes": [56576],
+    "debates": ["gjghghg"],
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimagez.tmz.com%2Fimage%2F72%2F4by3%2F2020%2F02%2F19%2F724de2994aaa45848243f45c900b8e4e_xl.jpg&imgrefurl=https%3A%2F%2Fwww.tmz.com%2F2020%2F02%2F19%2Fpop-smoke-dead-dies-20-murdered-home-invasion-robbery%2F&tbnid=d2mDLM9w-PrCzM&vet=12ahUKEwiD3pKk2NvvAhWFEt8KHYivDsMQMygAegUIARCHAQ..i&docid=y5jnCyN-58jpJM&w=1200&h=900&q=Pop%20Smoke&hl=en&ved=2ahUKEwiD3pKk2NvvAhWFEt8KHYivDsMQMygAegUIARCHAQ",
     "album": [
-            {
-                "albumName": "Shoot for the Stars, Aim for the Moon",
-                "yearReleased": "July 3 2020",
-                "Streams":"268,400,000,000",
-                "certification": "Gold"
-            }
-],
-"Mixtapes": [
-        {
+      {
+        "albumName": "Shoot for the Stars, Aim for the Moon",
+        "yearReleased": "July 3 2020",
+        "Streams": "268,400,000,000",
+        "certification": "Gold"
+      }
+    ],
+    "mixtapes": [
+      {
         "albumName": "Meet the Woo",
         "yearReleased": "July 26 2019"
-        }, 
-        {
+      },
+      {
         "albumName": "Meet the Woo 2",
         "yearReleased": "February 7, 2020"
-        }
+      }
     ],
 
     "record label": "Victor Victor, Republic",
     "genre": "Hip Hop",
     "years-active": "2018-2020",
     "awards": [
-        {
-        "BET Hip Hop awards": 1
-        }
+      {
+        "BETHipHopawards": 1
+      }
     ]
-}
-
+  }
 ]

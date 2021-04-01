@@ -4,7 +4,7 @@ const ArtistSchema = new mongoose.Schema({
 	artist: String,
 	bio: String,
 	likes: [String],
-	debate:[String],
+	debates: [String],
 	album: [
 		{
 			name: String,
@@ -15,7 +15,7 @@ const ArtistSchema = new mongoose.Schema({
 		},
 	],
 	photo: String,
-	
+
 	mixTape: [
 		{
 			albumName: String,

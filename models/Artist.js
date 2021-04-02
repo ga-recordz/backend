@@ -1,10 +1,14 @@
 const mongoose = require('../db/connection');
 
+const DebateSchema = require('./Debate');
+const VoteSchema = require('./Vote.js');
+
 const ArtistSchema = new mongoose.Schema({
 	artist: String,
 	bio: String,
-	likes: [String],
-	debates: [String],
+	votes: [String],
+	likes: [String], //<-- take this out
+	debates: [DebateSchema],
 	album: [
 		{
 			name: String,

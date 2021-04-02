@@ -4,7 +4,7 @@ const userSeeds = require('./userSeeds.json');
 
 User.deleteMany({})
 	.then(() => {
-		return User.insertMany(seedData);
+		return User.insertMany(userSeeds);
 	})
 	.then(console.log)
 	.catch(console.error)

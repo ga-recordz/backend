@@ -1,22 +1,21 @@
 const mongoose = require("../db/connection");
 
-const ArtistSchema = new mongoose.Schema({
-  artist: String,
-  bio: String,
-  likes: [String],
-  debates: [String],
-  image: String,
-  album: [
-    {
-      albumName: String,
-      yearReleased: String,
-      albumSold: String,
-      certification: String,
-      stream: String,
-    },
-  ],
-  photo: String,
+const DebateSchema = require('./Debate');
+const VoteSchema = require('./Vote.js');
 
+const ArtistSchema = new mongoose.Schema({
+	likes: [String], //<-- take this out
+	debates: [DebateSchema],
+	album: [
+		{
+			name: String,
+			yearReleased: String,
+			albumsSold: String,
+			certification: String,
+			stream: String,
+		},
+	],
+  image: String,
   mixTapes: [
     {
       albumName: String,

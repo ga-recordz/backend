@@ -11,7 +11,7 @@ app.use(cors());
 //------------Start Controllers-------------------------------
 app.use('/artists', artistController);
 
-app.use('/users', userCtrl);
+app.use('/', userCtrl);
 
 //-------------End Controllers---------------------------------
 

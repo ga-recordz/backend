@@ -1,36 +1,59 @@
 const express = require('express');
+const User = require('../models/User');
+const bcrypt = require('bcrypt');
+
 const router = express.Router();
 
-// import the User model
-const User = require('../models/User');
+// SIGN UP
+// POST /api/signup
+// router.post('/signup', (req, res, next) => {
+// 	User.create(req.body)
+// 		.then((user) => res.status(201).json(user))
+// 		.catch(next);
+// });
 
-// Index: GET all the Users
-router.get('/', (req, res, next) => {
-	// 1. Get all of the Users from the DB
-	User.find({})
-		// 2. Send them back to the client as JSON
-		.then((users) => res.json(users))
-		// 3. If there's an error pass it on!
+// SIGN UP
+// POST /signup
+//Using promise chain
+//get the password -> hash it -> store the hashed password in the database
+router.post('/signup', (req, res, next) => {
+	bcrypt
+		.hash(req.body.password, 10)
+		// return a new object with the email and hashed password
+		.then((hash) =>
+			// when returning an object with fat arrow syntax, we
+			// need to wrap the object in parentheses so JS doesn't
+			// read the object curly braces as the function block
+			({
+				email: req.body.email,
+				password: hash,
+				userName: req.body.userName,
+			})
+		)
+		// create user with provided email and hashed password
+		.then((user) => User.create(user))
+		// send the new user object back with status 201, but `hashedPassword`
+		// won't be sent because of the `transform` in the User model
+		.then((user) => res.status(201).json(user))
+		// pass any errors along to the error handler
 		.catch(next);
 });
 
-// Show: Get a User by ID
-router.get('/:id', (req, res, next) => {
-	// 1. Find the User by its unique ID
-	User.findById(req.params.id)
-		// 2. Send it back to the client as JSON
-		.then((user) => res.json(user))
-		// 3. If there's an error pass it on!
-		.catch(next);
-});
+// SIGN IN
+// Require the createUserToken method
+const { createUserToken } = require('../middleware/auth');
 
-// Create: Create a new resource in the DB and return it
-router.post('/', (req, res, next) => {
-	// 1. Use the data in the req body to create a new User
-	User.create(req.body)
-		// 2. If the create is successful, send back the record that was inserted
-		.then((user) => res.json(user))
-		// 3. If there was an error, pass it on!
+// POST /signin
+router.post('/signin', (req, res, next) => {
+	User.findOne({ email: req.body.email })
+		// Pass the user and the request to createUserToken
+		.then((user) => createUserToken(req, user))
+		// createUserToken will either throw an error that
+		// will be caught by our error handler or send back
+		// a token that we'll in turn send to the client.
+		.then((token) => {
+			return res.json({ token });
+		})
 		.catch(next);
 });
 

@@ -6,70 +6,70 @@
 
         "album": [
             {
-                "albumName": "Reasonable Doubt",
+                "name": "Reasonable Doubt",
                 "yearReleased": "June 25 1996",
-                "albumSold":"1,514,000",
+                "albumsSold":"1,514,000",
                 "certification": "Platinum"
                 
 
             },
             {
-                "albumName": "In My Lifetime vol.1",
+                "name": "In My Lifetime vol.1",
                 "yearReleased": "November 4 1997",
-                "albumSold":"1,412,000",
+                "albumsSold":"1,412,000",
                 "certification": "Platinum"
             },
               {
-                "albumName": "VOl 2 ...Hard Knock Life",
+                "name": "VOl 2 ...Hard Knock Life",
                 "yearReleased": "September 29 1998",
-                "albumSold":"5,400,000",
+                "albumsSold":"5,400,000",
                 "certification": "5x Platinum"
             },
              {
-                "albumName": "VOl 3 ...Life and Times of S.Carter",
+                "name": "VOl 3 ...Life and Times of S.Carter",
                 "yearReleased": "December 28 1999",
-                "albumSold":"3,093,000",
+                "albumsSold":"3,093,000",
                 "certification": "3x Platinum"
             },
             {
-                "albumName": "The Dynasty: Roc La Familia",
+                "name": "The Dynasty: Roc La Familia",
                 "yearReleased": "October 31 2000",
-                "albumSold":"2,521,00",
+                "albumsSold":"2,521,00",
                 "certification": "2x Platinum"
             }, {
-                "albumName": "The BluePrint",
+                "name": "The BluePrint",
                 "yearReleased": "September 11 2001",
-                "albumSold":"2,711,000",
+                "albumsSold":"2,711,000",
                 "certification": "3x Platinum"
             },{
-                "albumName": "The Blueprint 2: The Gift & The Curse",
+                "name": "The Blueprint 2: The Gift & The Curse",
                 "yearReleased": "November 12 2002",
-                "albumSold":"2,117,000",
+                "albumsSold":"2,117,000",
                 "certification": "3x Platinum"
             },{
-                "albumName": "The Black Album",
+                "name": "The Black Album",
                 "yearReleased": "November 14 2003",
-                "albumSold":"3,516,000",
+                "albumsSold":"3,516,000",
                 "certification": "3x Platinum"
             },{
-                "albumName": "Kingdom Come",
+                "name": "Kingdom Come",
                 "yearReleased": "November 21 2006",
-                "albumSold":"1,510,000",
+                "albumsSold":"1,510,000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "American Gangster",
+                "name": "American Gangster",
                 "yearReleased": "November 6 2007",
-                "albumSold":"1,313,000",
+                "albumsSold":"1,313,000",
                 "certification": "Platinum"
             },{
-                "albumName": "The Blue 3",
+                "name": "The Blue 3",
                 "yearReleased": "September 8 2009",
-                "albumSold": "1,130,000",
+                "albumsSold": "1,130,000",
                 "certification": "Platinum"
             },{
-                "albumName": "4:44",
+                "name": "4:44",
                 "yearReleased": "June 30 2017",
-                "albumSold": "399,000",
+                "albumsSold": "399,000",
                 "certification": "Platinum"
             }
         ] ,
@@ -79,8 +79,8 @@
     "years-active": "1988-Present",
     "awards": [
         {
-         "grammy": 23,  
-         "billboard Music awards": 6
+         "grammys": 23,  
+         "billBoardMusicAwards": 6
         }
     ]
 },{
@@ -94,60 +94,60 @@
 
         "album": [
             {
-                "albumName": "Illmatic",
+                "name": "Illmatic",
                 "yearReleased": "April 19 1994",
-                "albumSold":"2,000,000",
+                "albumsSold":"2,000,000",
                 "certification": "2x Platinum"
             },
             {
-                "albumName": "It was Written",
+                "name": "It was Written",
                 "yearReleased": "July 2 1996",
-                "albumSold":"2,595,000",
+                "albumsSold":"2,595,000",
                 "certification": "2x Platinum"
             }, {
-                "albumName": "I Am",
+                "name": "I Am",
                 "yearReleased": "April 6 1999",
-                "albumSold":"2,178 000",
+                "albumsSold":"2,178 000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "Nastradamus",
+                "name": "Nastradamus",
                 "yearReleased": "November 23 1999",
-                "albumSold":" 1,262,000",
+                "albumsSold":" 1,262,000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "StillMatic",
+                "name": "StillMatic",
                 "yearReleased": "December 18 2001",
-                "albumSold":"2,179,000",
+                "albumsSold":"2,179,000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "God's Son",
+                "name": "God's Son",
                 "yearReleased": "December 13, 2002",
-                "albumSold":"1,362,000",
+                "albumsSold":"1,362,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Steet's Disicple",
+                "name": "Steet's Disicple",
                 "yearReleased": "November 30 2004",
-                "albumSold":"724,000",
+                "albumsSold":"724,000",
                 "certification": "Gold"
             },{
-                "albumName": "Untitled",
+                "name": "Untitled",
                 "yearReleased": "July 15 2008",
-                "albumSold":"480,000",
+                "albumsSold":"480,000",
                 "certification": "Gold"
             },{
-                "albumName": "Life is Gold",
+                "name": "Life is Gold",
                 "yearReleased": "July 17 2012",
-                "albumSold":"380,0000",
+                "albumsSold":"380,0000",
                 "certification": "Gold"
             },{
-                "albumName": "Nassir",
+                "name": "Nassir",
                 "yearReleased": "June 15 2018",
-                "albumSold":"380,0000",
+                "albumsSold":"380,0000",
                 "certification": "Gold"
             },{
-                "albumName": "King's Disease",
+                "name": "King's Disease",
                 "yearReleased": "June 15 2020",
-                "albumSold":"",
+                "albumsSold":"",
                 "certification": ""
             }
     
@@ -159,7 +159,7 @@
     "years-active": "1989-Present",
     "awards": [
         {
-         "Grammy": 1,
+         "grammys": 1,
          "BET awards": 2  
         }
     ]
@@ -173,35 +173,35 @@
 
     "album": [
             {
-                "albumName": "Southernplayalisticadillacmuzik",
+                "name": "Southernplayalisticadillacmuzik",
                 "yearReleased": "April 26 1994",
-                "albumSold":"1,000,000",
+                "albumsSold":"1,000,000",
                 "certification": "Platinum"
             },
             {
-                "albumName": "ATLiens",
+                "name": "ATLiens",
                 "yearReleased": "August 27 1996",
-                "albumSold":"2,000,000",
+                "albumsSold":"2,000,000",
                 "certification": "2x Platinum"
             }, {
-                "albumName": "Aquemini",
+                "name": "Aquemini",
                 "yearReleased": "September 29 1998",
-                "albumSold":"2,000,000",
+                "albumsSold":"2,000,000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "Stankonia",
+                "name": "Stankonia",
                 "yearReleased": "October 31 2000",
-                "albumSold":"4,000,000",
+                "albumsSold":"4,000,000",
                 "certification": "4x Platinum"
             },{
-                "albumName": "Speakerboxxx/The Love Below",
+                "name": "Speakerboxxx/The Love Below",
                 "yearReleased": "September 23 2003",
-                "albumSold":"10,000,000",
+                "albumsSold":"10,000,000",
                 "certification": "Diamond"
             },{
-                "albumName": "Idle",
+                "name": "Idle",
                 "yearReleased": "August 22 200",
-                "albumSold":"10,000,000",
+                "albumsSold":"10,000,000",
                 "certification": "Diamond"
             }
         ],
@@ -211,7 +211,7 @@
     "years-active": "1989-Present",
     "awards": [
         {
-         "grammy": 1,
+         "grammys": 1,
          "bET awards": 2  
         }
     ]
@@ -224,60 +224,60 @@
 
     "album": [
             {
-                "albumName": "2Pacalypse Now",
+                "name": "2Pacalypse Now",
                 "yearReleased": "November 12 1991",
-                "albumSold":"923,455",
+                "albumsSold":"923,455",
                 "certification": "Gold"
             },
             {
-                "albumName": "Strictly 4 My ******",
+                "name": "Strictly 4 My ******",
                 "yearReleased": "February 16 1993",
-                "albumSold":"1,639,584",
+                "albumsSold":"1,639,584",
                 "certification": "Platinum"
             }, {
-                "albumName": "Me Against the World",
+                "name": "Me Against the World",
                 "yearReleased": "March 14 1995",
-                "albumSold":"3,500,000",
+                "albumsSold":"3,500,000",
                 "certification": "3x Platinum"
             },{
-                "albumName": "All Eyez on Me",
+                "name": "All Eyez on Me",
                 "yearReleased": "February 13 1996",
-                "albumSold":"11,000,000",
+                "albumsSold":"11,000,000",
                 "certification": "Diamond"
             },{
-                "albumName": "The Don Killuminati: The 7 Day Theory",
+                "name": "The Don Killuminati: The 7 Day Theory",
                 "yearReleased": "Novembr 5 1996",
-                "albumSold":"5,000,000",
+                "albumsSold":"5,000,000",
                 "certification": "5x Platinum"
             },{
-                "albumName": "R U Still Down?",
+                "name": "R U Still Down?",
                 "yearReleased": "November 25 1997",
-                "albumSold":"2,166,177",
+                "albumsSold":"2,166,177",
                 "certification": "2x Platinum"
             },{
-                "albumName": "Still I Rise",
+                "name": "Still I Rise",
                 "yearReleased": "December 13 1999",
-                "albumSold":"1,000,000",
+                "albumsSold":"1,000,000",
                 "certification": " Platinum"
             },{
-                "albumName": "Until the End of Time",
+                "name": "Until the End of Time",
                 "yearReleased": "March 27 2001",
-                "albumSold":"2,000,000",
+                "albumsSold":"2,000,000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "Better Dayz",
+                "name": "Better Dayz",
                 "yearReleased": "November 26 2002",
-                "albumSold":"1,500,000",
+                "albumsSold":"1,500,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Loyal to the Game",
+                "name": "Loyal to the Game",
                 "yearReleased": "December 14 2004",
-                "albumSold":"1,200,000",
+                "albumsSold":"1,200,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Pac's Life",
+                "name": "Pac's Life",
                 "yearReleased": "November 21 2006",
-                "albumSold":"469,000",
+                "albumsSold":"469,000",
                 "certification": "N/A"
             }
         ],
@@ -287,7 +287,7 @@
     "years-active": "1989-1996",
     "awards": [
         {
-         "Grammy": 3,
+         "grammys": 3,
          "American Music awards": 1,
          "Rock and Roll Hall of Fame": "2017"
          
@@ -306,15 +306,15 @@
     "album": [
 
             {
-                "albumName": "Ready to Die",
+                "name": "Ready to Die",
                 "yearReleased": "September 13 1994",
-                "albumSold":"6,000,000",
+                "albumsSold":"6,000,000",
                 "certification": "6x Platinum"
             },
             {
-                "albumName": "Life After Death",
+                "name": "Life After Death",
                 "yearReleased": "March 25 1997",
-                "albumSold":"10,000,000",
+                "albumsSold":"10,000,000",
                 "certification": "Diamond"
             }   
 ],
@@ -324,7 +324,7 @@
     "years-active": "1992-1997",
     "awards": [
         {
-         "Billboard Music awards": 3,
+         "billBoardMusicAwards": 3,
          "Mtv video Music awards": 1,
          "Rock and Roll Hall of Fame": "2020"
          
@@ -340,40 +340,40 @@
 
     "album": [
             {
-                "albumName": "Enter the Wu-Tang (36 Chambers)",
+                "name": "Enter the Wu-Tang (36 Chambers)",
                 "yearReleased": "November 9 1993",
-                "albumSold":"3,000,000",
+                "albumsSold":"3,000,000",
                 "certification": "3x Platinum"
             },
             {
-                "albumName": "Wu-Tang Forever",
+                "name": "Wu-Tang Forever",
                 "yearReleased": "June 3 1997",
-                "albumSold":"4,000,000",
+                "albumsSold":"4,000,000",
                 "certification": "4x Platinum"
             },{
-                "albumName": "The W",
+                "name": "The W",
                 "yearReleased": "November 21 2000",
-                "albumSold":"1,300,000",
+                "albumsSold":"1,300,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Iron Flag",
+                "name": "Iron Flag",
                 "yearReleased": "December 18 2001",
-                "albumSold":"687,000",
+                "albumsSold":"687,000",
                 "certification": "Gold"
             },{
-                "albumName": "8 Diagram",
+                "name": "8 Diagram",
                 "yearReleased": "December 11 2007",
-                "albumSold":"202,000",
+                "albumsSold":"202,000",
                 "certification": "N/A"
             },{
-                "albumName": "A Better Tomorrow",
+                "name": "A Better Tomorrow",
                 "yearReleased": "December 2 2014",
-                "albumSold":"60,000",
+                "albumsSold":"60,000",
                 "certification": "N/A"
             },{
-                "albumName": "Once Upon a Time in Shaolin",
+                "name": "Once Upon a Time in Shaolin",
                 "yearReleased": "November 25 2015",
-                "albumSold": "1",
+                "albumsSold": "1",
                 "certification": "N/A"
             }
 ],
@@ -383,7 +383,7 @@
     "years-active": "1992-Present",
     "awards": [
         {
-         "Grammy": 0
+         "grammys": 0
          
         }
     ]
@@ -394,55 +394,55 @@
 
     "album": [
             {
-                "albumName": "The Slim Shady LP",
+                "name": "The Slim Shady LP",
                 "yearReleased": "February 23 1999",
-                "albumSold":"5,433,000",
+                "albumsSold":"5,433,000",
                 "certification": "5x Platinum"
             },
             {
-                "albumName": "The Marshall Mathers LP",
+                "name": "The Marshall Mathers LP",
                 "yearReleased": "May 23 2000",
-                "albumSold":"21,000,000",
+                "albumsSold":"21,000,000",
                 "certification": "Diamond"
             },{
-                "albumName": "The Eminem Show",
+                "name": "The Eminem Show",
                 "yearReleased": "May 26 2002",
-                "albumSold":"27,000,000",
+                "albumsSold":"27,000,000",
                 "certification": "Diamond"
             },{
-                "albumName": "Encore",
+                "name": "Encore",
                 "yearReleased": "November 12 2004",
-                "albumSold":"5,400,0000",
+                "albumsSold":"5,400,0000",
                 "certification": "5x Platinum"
             },{
-                "albumName": "Relaspe",
+                "name": "Relaspe",
                 "yearReleased": "May 15 2009",
-                "albumSold":"2,300,000",
+                "albumsSold":"2,300,000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "Recovery",
+                "name": "Recovery",
                 "yearReleased": "June 18 2010",
-                "albumSold":"10,000,000",
+                "albumsSold":"10,000,000",
                 "certification": "Diamond"
             },{
-                "albumName": "The Marshall Mathers LP 2",
+                "name": "The Marshall Mathers LP 2",
                 "yearReleased": "November 5 2013",
-                "albumSold": "2,200,000",
+                "albumsSold": "2,200,000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "Revival",
+                "name": "Revival",
                 "yearReleased": "December 15 2017",
-                "albumSold": "435,000",
+                "albumsSold": "435,000",
                 "certification": "N/A"
             },{
-                "albumName": "Kamikaze",
+                "name": "Kamikaze",
                 "yearReleased": "August 31 2018",
-                "albumSold": "493,000",
+                "albumsSold": "493,000",
                 "certification": "N/A"
             },{
-                "albumName": "Music to Be Murdered By",
+                "name": "Music to Be Murdered By",
                 "yearReleased": "January 17 2020",
-                "albumSold": "1,000,000",
+                "albumsSold": "1,000,000",
                 "certification": "Platinum"
             }
 ],
@@ -453,8 +453,8 @@
     "awards": [
         {
          "Academy Award":1,   
-         "Grammy": 15,
-         "Billboard Music awards": 17
+         "grammys": 15,
+         "billBoardMusicAwards": 17
          
         }
     ]
@@ -468,30 +468,30 @@
 
     "album": [
             {
-                "albumName": "Get Rich or Die Tryin'",
+                "name": "Get Rich or Die Tryin'",
                 "yearReleased": "February 6 2003",
-                "albumSold":"12,000,000",
+                "albumsSold":"12,000,000",
                 "certification": "Diamond"
             },
             {
-                "albumName": "The Massacre",
+                "name": "The Massacre",
                 "yearReleased": "March 3 2005",
-                "albumSold":"5,360,000",
+                "albumsSold":"5,360,000",
                 "certification": "5x Platinum"
             },{
-                "albumName": "Curtis",
+                "name": "Curtis",
                 "yearReleased": "September 11 2007",
-                "albumSold":"1,336,000",
+                "albumsSold":"1,336,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Before I Self Destruct",
+                "name": "Before I Self Destruct",
                 "yearReleased": "November 9 2009",
-                "albumSold":"512,000",
+                "albumsSold":"512,000",
                 "certification": "Gold"
             },{
-                "albumName": "Animal Ambition",
+                "name": "Animal Ambition",
                 "yearReleased": "June 3 2014",
-                "albumSold":"124,000",
+                "albumsSold":"124,000",
                 "certification": "N/A"
             }
 ],
@@ -501,7 +501,7 @@
     "years-active": "1996-Present",
     "awards": [
         {
-        "Grammy": 1
+        "grammys": 1
          
         }
     ]
@@ -512,25 +512,25 @@
 
     "album": [
             {
-                "albumName": "Section.80",
+                "name": "Section.80",
                 "yearReleased": "July 2 2011",
-                "albumSold":"130,000",
+                "albumsSold":"130,000",
                 "certification": "N/A"
             },
             {
-                "albumName": "Good Kid, M.A.A.D City",
+                "name": "Good Kid, M.A.A.D City",
                 "yearReleased": "October 22 2012",
-                "albumSold":"1,720,000",
+                "albumsSold":"1,720,000",
                 "certification": "Platinum"
             },{
-                "albumName": "To Pimp a Butterfly",
+                "name": "To Pimp a Butterfly",
                 "yearReleased": "March 16 2015",
-                "albumSold":"1,050,000",
+                "albumsSold":"1,050,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Damn",
+                "name": "Damn",
                 "yearReleased": "April 14 2017",
-                "albumSold":"1,300,000",
+                "albumsSold":"1,300,000",
                 "certification": "Platinum"
             }
 ],
@@ -540,7 +540,7 @@
     "years-active": "2004-Present",
     "awards": [
         {
-        "Grammy": 13,
+        "grammys": 13,
         "American Music awards": 2
         }
     ]
@@ -551,30 +551,30 @@
 
     "album": [
             {
-                "albumName": "Thank Me Later",
+                "name": "Thank Me Later",
                 "yearReleased": "June 15 2010",
-                "albumSold":"1,830,000",
+                "albumsSold":"1,830,000",
                 "certification": "Platinum"
             },
             {
-                "albumName": "Take Care",
+                "name": "Take Care",
                 "yearReleased": "November 15 2011",
-                "albumSold":"2,338,000",
+                "albumsSold":"2,338,000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "Nothing was the Same",
+                "name": "Nothing was the Same",
                 "yearReleased": "September 24 2013",
-                "albumSold":"1,783,000",
+                "albumsSold":"1,783,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Views",
+                "name": "Views",
                 "yearReleased": "April 29 2016",
-                "albumSold":"1,739,000",
+                "albumsSold":"1,739,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Scorpian",
+                "name": "Scorpian",
                 "yearReleased": "June 29 2018",
-                "albumSold":"407,600",
+                "albumsSold":"407,600",
                 "certification": "N/A"
             }
 ],
@@ -584,7 +584,7 @@
     "years-active": "2001-Present",
     "awards": [
         {
-        "Grammy": 4,
+        "grammys": 4,
         "MTV Video Music awards ": 2
         }
     ]
@@ -595,30 +595,30 @@
 
     "album": [
             {
-                "albumName": "Cole World: The Sideline Story",
+                "name": "Cole World: The Sideline Story",
                 "yearReleased": "September 27 2011",
-                "albumSold":"855,000",
+                "albumsSold":"855,000",
                 "certification": "Gold"
             },
             {
-                "albumName": "Born Sinner ",
+                "name": "Born Sinner ",
                 "yearReleased": "June 18 2013",
-                "albumSold":"796,000",
+                "albumsSold":"796,000",
                 "certification": "Gold"
             },{
-                "albumName": "2014 Forest Hills Drive",
+                "name": "2014 Forest Hills Drive",
                 "yearReleased": "December 9 2014",
-                "albumSold":"1,240,000",
+                "albumsSold":"1,240,000",
                 "certification": "Platinum"
             },{
-                "albumName": "4 Your Eyez Only",
+                "name": "4 Your Eyez Only",
                 "yearReleased": "December 9 2016",
-                "albumSold":"1,000,000",
+                "albumsSold":"1,000,000",
                 "certification": "Platinum"
             },{
-                "albumName": "KOD",
+                "name": "KOD",
                 "yearReleased": "April 30 2018",
-                "albumSold":"1,131,000",
+                "albumsSold":"1,131,000",
                 "certification": "Platinum"
             }
 ],
@@ -628,8 +628,8 @@
     "years-active": "2007-Present",
     "awards": [
         {
-        "Grammy": 1,
-        "Billboard Music awards ": 1
+        "grammys": 1,
+        "billBoardMusicAwards ": 1
         }
     ]
 },{
@@ -639,30 +639,30 @@
 
     "album": [
             {
-                "albumName": "Finally Famous",
+                "name": "Finally Famous",
                 "yearReleased": "June 28 2011",
-                "albumSold":"1,000,000",
+                "albumsSold":"1,000,000",
                 "certification": "Platinum"
             },
             {
-                "albumName": "Hall of Fame ",
+                "name": "Hall of Fame ",
                 "yearReleased": "August 27 2013",
-                "albumSold":"500,000",
+                "albumsSold":"500,000",
                 "certification": "Gold"
             },{
-                "albumName": "Dark Sky Paradise",
+                "name": "Dark Sky Paradise",
                 "yearReleased": "February 24 2015",
-                "albumSold":"2,000,000",
+                "albumsSold":"2,000,000",
                 "certification": "2x Platinum"
             },{
-                "albumName": "I Decided",
+                "name": "I Decided",
                 "yearReleased": "February 3 2017",
-                "albumSold":"1,000,000",
+                "albumsSold":"1,000,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Detroit 2",
+                "name": "Detroit 2",
                 "yearReleased": "September 4 2018",
-                "albumSold":"N/A",
+                "albumsSold":"N/A",
                 "certification": "N/A"
             }
 ],
@@ -683,75 +683,75 @@
 
     "album": [
             {
-                "albumName": "Tha Block Is Hot",
+                "name": "Tha Block Is Hot",
                 "yearReleased": "November 2 1999",
-                "albumSold":"1,400,000",
+                "albumsSold":"1,400,000",
                 "certification": "Platinum"
             },
             {
-                "albumName": "Lights Out",
+                "name": "Lights Out",
                 "yearReleased": "December 19 2000",
-                "albumSold":"500,000",
+                "albumsSold":"500,000",
                 "certification": "Gold"
             },{
-                "albumName": "500 Degreez",
+                "name": "500 Degreez",
                 "yearReleased": "July 23 2002",
-                "albumSold":"500,000",
+                "albumsSold":"500,000",
                 "certification": "Gold"
             },{
-                "albumName": "Tha Carter",
+                "name": "Tha Carter",
                 "yearReleased": "June 29 2004",
-                "albumSold":"1,000,000",
+                "albumsSold":"1,000,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Tha Carter II",
+                "name": "Tha Carter II",
                 "yearReleased": "December 6 2005",
-                "albumSold":"1,400,000",
+                "albumsSold":"1,400,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Like Father, Like Son",
+                "name": "Like Father, Like Son",
                 "yearReleased": "October 31 2006",
-                "albumSold":"500,000",
+                "albumsSold":"500,000",
                 "certification": "Gold"
             },{
-                "albumName": "Tha Carter III ",
+                "name": "Tha Carter III ",
                 "yearReleased": "June 10 2008",
-                "albumSold":"3,800,000",
+                "albumsSold":"3,800,000",
                 "certification": "3x Platinum"
             },{
-                "albumName": "Rebirth ",
+                "name": "Rebirth ",
                 "yearReleased": "September 2 2010",
-                "albumSold":"849,000",
+                "albumsSold":"849,000",
                 "certification": "Gold"
             },{
-                "albumName": "I Am Not a Human Being ",
+                "name": "I Am Not a Human Being ",
                 "yearReleased": "September 27 2010",
-                "albumSold":"1,000,000",
+                "albumsSold":"1,000,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Tha Carter IV ",
+                "name": "Tha Carter IV ",
                 "yearReleased": "August 29 2011",
-                "albumSold":"3,500,000",
+                "albumsSold":"3,500,000",
                 "certification": "5x Platinum"
             },{
-                "albumName": "I Am Not a Human Being II ",
+                "name": "I Am Not a Human Being II ",
                 "yearReleased": "March 26 2013",
-                "albumSold":"529,000",
+                "albumsSold":"529,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Free weezy Album",
+                "name": "Free weezy Album",
                 "yearReleased": "July 4 2015",
-                "albumSold":"N/A",
+                "albumsSold":"N/A",
                 "certification": "N/A"
             },{
-                "albumName": "Tha Carter V",
+                "name": "Tha Carter V",
                 "yearReleased": "September 28 2018",
-                "albumSold":"140,000",
+                "albumsSold":"140,000",
                 "certification": "Platinum"
             },{
-                "albumName": "Funeral",
+                "name": "Funeral",
                 "yearReleased": "January 31 2020",
-                "albumSold":"38,000",
+                "albumsSold":"38,000",
                 "certification": "N/A"
             }
 ],
@@ -761,7 +761,7 @@
     "years-active": "1995-Present",
     "awards": [
         {
-        "Grammy": 5,
+        "grammys": 5,
         "Billboard Award": 4
         }
     ]
@@ -772,50 +772,50 @@
 
     "album": [
             {
-                "albumName": "The College Dropout",
+                "name": "The College Dropout",
                 "yearReleased": "February 10 2004",
-                "albumSold":"3,358,000",
+                "albumsSold":"3,358,000",
                 "certification": "4x Platinum"
             },
             {
-                "albumName": "Late Registration",
+                "name": "Late Registration",
                 "yearReleased": "August 30 2005",
-                "albumSold":"3,100,000",
+                "albumsSold":"3,100,000",
                 "certification": "4x Platinum"
             },{
-                "albumName": "Graduation",
+                "name": "Graduation",
                 "yearReleased": "September 11 2007",
-                "albumSold":"2,700,000",
+                "albumsSold":"2,700,000",
                 "certification": "5x Platinum"
             },{
-                "albumName": "808s & Heartbreak",
+                "name": "808s & Heartbreak",
                 "yearReleased": "November 24 2008",
-                "albumSold":"1,700,000",
+                "albumsSold":"1,700,000",
                 "certification": "3x Platinum"
             },{
-                "albumName": "My Beautiful Dark Twisted Fantasy",
+                "name": "My Beautiful Dark Twisted Fantasy",
                 "yearReleased": "November 22 2010",
-                "albumSold":"1,400,000",
+                "albumsSold":"1,400,000",
                 "certification": "3x Platinum"
             },{
-                "albumName": "Yeezus",
+                "name": "Yeezus",
                 "yearReleased": "June 18 2013",
-                "albumSold":"500,000",
+                "albumsSold":"500,000",
                 "certification": "Gold"
             },{
-                "albumName": "The Life of Pablo",
+                "name": "The Life of Pablo",
                 "yearReleased": "February 14 2016",
-                "albumSold":"2,000,000",
+                "albumsSold":"2,000,000",
                 "certification": "3x Platinum"
             },{
-                "albumName": "Ye ",
+                "name": "Ye ",
                 "yearReleased": "June 1 2018",
-                "albumSold":"85,000",
+                "albumsSold":"85,000",
                 "certification": "Gold"
             },{
-                "albumName": "Jesus Is King",
+                "name": "Jesus Is King",
                 "yearReleased": "October 25 2019",
-                "albumSold":"100,000",
+                "albumsSold":"100,000",
                 "certification": "Gold"
             }
 ],
@@ -825,7 +825,7 @@
     "years-active": "1996-Present",
     "awards": [
         {
-        "Grammy": 22,
+        "grammys": 22,
         "Billboard Award": 9
         }
     ]
@@ -836,7 +836,7 @@
 
     "album": [
             {
-                "albumName": "Shoot for the Stars, Aim for the Moon",
+                "name": "Shoot for the Stars, Aim for the Moon",
                 "yearReleased": "July 3 2020",
                 "Streams":"268,400,000,000",
                 "certification": "Gold"
@@ -844,11 +844,11 @@
 ],
 "Mixtapes": [
         {
-        "albumName": "Meet the Woo",
+        "name": "Meet the Woo",
         "yearReleased": "July 26 2019"
         }, 
         {
-        "albumName": "Meet the Woo 2",
+        "name": "Meet the Woo 2",
         "yearReleased": "February 7, 2020"
         }
     ],

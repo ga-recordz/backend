@@ -15,8 +15,14 @@ app.use('/', userCtrl);
 
 //-------------End Controllers---------------------------------
 
-const port = process.env.PORT || 4000;
+// const port = process.env.PORT || 4000;
 
-app.listen(port, () => {
-	console.log(`app listening on port ${port}`);
+// app.listen(port, () => {
+// 	console.log(`app listening on port ${port}`);
+// });
+
+app.set('port', process.env.PORT || 4000);
+
+app.listen(app.get('port'), () => {
+	console.log(`✅ PORT: ${app.get('port')} 🌟`);
 });

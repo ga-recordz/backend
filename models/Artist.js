@@ -1,8 +1,14 @@
 const mongoose = require('../db/connection');
 
+const DebateSchema = require('./Debate');
+const VoteSchema = require('./Vote.js');
+
 const ArtistSchema = new mongoose.Schema({
 	artist: String,
 	bio: String,
+	votes: [String],
+	likes: [String], //<-- take this out
+	debates: [DebateSchema],
 	album: [
 		{
 			name: String,
@@ -13,7 +19,7 @@ const ArtistSchema = new mongoose.Schema({
 		},
 	],
 	photo: String,
-	likes: [],
+
 	mixTape: [
 		{
 			albumName: String,

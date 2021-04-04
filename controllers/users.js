@@ -53,7 +53,6 @@ router.post('/signin', (req, res, next) => {
 router.get('/user/:userID', (req, res, next) => {
 	User.findById(req.params.userID)
 		.then((user) => {
-			console.log(user);
 			res.json(user);
 		})
 		.catch(next);

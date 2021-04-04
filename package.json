@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "seedData": "node db/artistSeeds.js && node db/userSeeds.js && nodemon index.js"
+    "dev": "nodemon -L index.js",
+    "seedData": "node db/artistSeeds.js && node db/userSeeds.js && nodemon -L index.js"
   },
   "repository": {
     "type": "git",

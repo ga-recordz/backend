@@ -81,7 +81,10 @@ const createUserToken = (req, user) => {
 	}
 	// If no error was thrown, we create the token from user's id and
 	// return the token
-	return jwt.sign({ id: user._id }, secret, { expiresIn: 36000 });
+	return {
+		token: jwt.sign({ id: user._id }, secret, { expiresIn: 36000 }),
+		user,
+	};
 };
 
 module.exports = {

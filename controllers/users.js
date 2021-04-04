@@ -4,15 +4,7 @@ const bcrypt = require('bcrypt');
 
 const router = express.Router();
 
-// SIGN UP
-// POST /api/signup
-// router.post('/signup', (req, res, next) => {
-// 	User.create(req.body)
-// 		.then((user) => res.status(201).json(user))
-// 		.catch(next);
-// });
-
-// SIGN UP
+//-------------------------------------SIGN UP---------------------------------------
 // POST /signup
 //Using promise chain
 //get the password -> hash it -> store the hashed password in the database
@@ -39,7 +31,7 @@ router.post('/signup', (req, res, next) => {
 		.catch(next);
 });
 
-// SIGN IN
+// ------------------------------------SIGN IN---------------------------------------
 // Require the createUserToken method
 const { createUserToken } = require('../middleware/auth');
 
@@ -51,8 +43,17 @@ router.post('/signin', (req, res, next) => {
 		// createUserToken will either throw an error that
 		// will be caught by our error handler or send back
 		// a token that we'll in turn send to the client.
-		.then((token) => {
-			return res.json({ token });
+		.then((tokenData) => {
+			return res.json(tokenData);
+		})
+		.catch(next);
+});
+
+//GET User, after they signed in
+router.get('/user/:userID', (req, res, next) => {
+	User.findById(req.params.userID)
+		.then((user) => {
+			res.json(user);
 		})
 		.catch(next);
 });

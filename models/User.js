@@ -1,4 +1,5 @@
 const mongoose = require('../db/connection');
+const Artist = require('../models/Artist');
 
 const UserSchema = new mongoose.Schema(
 	{
@@ -15,6 +16,9 @@ const UserSchema = new mongoose.Schema(
 			type: String,
 			required: true,
 		},
+		// top5: [Artist],
+		// goat: Artist,
+		// favoriteArtists: [Artist],
 	},
 	{
 		timestamps: true,

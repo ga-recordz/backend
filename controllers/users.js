@@ -30,6 +30,7 @@ router.post("/signup", (req, res, next) => {
       // won't be sent because of the transform in the User model
       .then((user) => res.status(201).json(user))
       // pass any errors along to the error handler
+      //testing
       .catch(next);
   } else {
     bcrypt
